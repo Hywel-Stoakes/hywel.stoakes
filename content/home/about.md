@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Articulatory Phonetics",
+    "Coarticulation",
     "Australian Languages",
     "Te Reo Māori"
   ]
@@ -35,6 +36,5 @@ weight = 5
 
 # Biography
 
-Hywel Stoakes is a 
+Hywel Stoakes is a phonetician who researches the sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. Previous research is mainly on coarticulation and prosody in Australian indigenous language of Northern Australia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

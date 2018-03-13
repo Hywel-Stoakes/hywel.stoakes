@@ -33,12 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "R"
+  tag = ".Rstats"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Phonetics"
+  tag = ".phonetics"
+  
+[[filter]]
+  name = "Phonology"
+  tag = ".phonology"
 
 +++
 

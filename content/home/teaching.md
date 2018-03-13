@@ -15,14 +15,10 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+<!--This is an example of using the *custom* widget to create your own homepage section.-->
 
-I am a teaching instructor for the following courses at University X:
+My previous role was sessional teaching for the following courses at The University Melbourne:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- LING20005: Introductory Phonetics
+- LING90001: Experimental Phonetics
+- LING90004: English Phonetics and Phonology
