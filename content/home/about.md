@@ -36,4 +36,4 @@ weight = 5
 
 # Biography
 
-Hywel Stoakes is a phonetician who researches the sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. Previous research is mainly on coarticulation and prosody in Australian indigenous languages of Northern Australia. I have worked with speakers of Bininj Kunwok (Kunwinjku [kʊnˈwɪɲgʊ]) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). Hywel uses modern, computer aided phonetic techniques to explores the sounds of the World's languages.
+I am trained as phonetician and my current research interests are sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. My previous research concerns coarticulation and prosody in Indigenous Australian languages of Northern Australia. I have worked with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I aim to use modern, computer aided phonetic techniques to explores the sounds of the World's languages, including machine learning and artificial intelligence. 
