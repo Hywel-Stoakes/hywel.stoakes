@@ -2,105 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Hywel Stoakes</title>
-    <link>/hywel.stoakes/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Hywel Stoakes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1300</lastBuildDate>
     
-	<atom:link href="/hywel.stoakes/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phonetics of Understudied Languages</title>
-      <link>/hywel.stoakes/home/hero/</link>
+      <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +1300</pubDate>
       
-      <guid>/hywel.stoakes/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>Phonetics is the study of the sounds of languages. Under-studied, under-resourced and endangered languages. 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>/hywel.stoakes/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography I am trained as a phonetician with a particular focus on variation within languages. My current research interests are sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. My previous research concerns coarticulation and prosody in Indigenous Australian languages of Northern Australia. I have worked with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I aim to use modern, computer aided phonetic techniques to explores the sounds of the World&amp;rsquo;s languages, including machine learning and artificial intelligence.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/hywel.stoakes/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
-      <guid>/hywel.stoakes/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>/hywel.stoakes/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1200</pubDate>
       
-      <guid>/hywel.stoakes/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/hywel.stoakes/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/hywel.stoakes/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/hywel.stoakes/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/hywel.stoakes/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>My previous role was sessional teaching for the following courses at The University Melbourne:
  LING20005: Introductory Phonetics LING90001: Experimental Phonetics LING90004: English Phonetics and Phonology  </description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/hywel.stoakes/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +1200</pubDate>
       
-      <guid>/hywel.stoakes/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/hywel.stoakes/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/hywel.stoakes/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
