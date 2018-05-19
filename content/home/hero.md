@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-05-19
 
-title = "MPAi: a prototype computer-based pronunciation tool that provides users with real time feedback on their own pronunciation of Te Reo Māori"
+title = "MPAi: a prototype computer-based pronunciation tool for Te Reo Māori"
 
 # Order that this section will appear in.
 weight = 3
