@@ -7,19 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1300</lastBuildDate>
+    <lastBuildDate>Sat, 19 May 2018 00:00:00 +1200</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Phonetics of Understudied Languages</title>
+      <title>MPAi: a prototype computer-based pronunciation tool that provides users with real time feedback on their own pronunciation of Te Reo Māori</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +1300</pubDate>
+      <pubDate>Sat, 19 May 2018 00:00:00 +1200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Phonetics is the study of the sounds of languages. Under-studied, under-resourced and endangered languages. 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>This is a prototype computer-based pronunciation tool developed at the University of Auckland by a team of researchers that provides users with real time feedback on their own pronunciation of Te Reo Māori. 🚀 Latest release     (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography I am trained as a phonetician with a particular focus on variation within languages. My current research interests are sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. My previous research concerns coarticulation and prosody in Indigenous Australian languages of Northern Australia. I have worked with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I aim to use modern, computer aided phonetic techniques to explores the sounds of the World&amp;rsquo;s languages, including machine learning and artificial intelligence.</description>
+      <description>Biography I am trained as a phonetician with a particular focus on variation within languages. My current research interests are sounds and articulation of under-resourced and endangered languages of the Asia-Pacific region. My previous research concerns coarticulation and prosody in Indigenous Australian languages of Northern Australia. I have worked with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I am currently working with a team of researchers on MPAi, a pronunciation app for speakers and learners of Te Reo Māori.</description>
     </item>
     
     <item>
@@ -52,7 +51,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -79,10 +78,10 @@
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>My previous role was sessional teaching for the following courses at The University Melbourne:
+      <description>I have taught the following courses at The University of Melbourne as a sessional lecturer:
  LING20005: Introductory Phonetics LING90001: Experimental Phonetics LING90004: English Phonetics and Phonology  </description>
     </item>
     

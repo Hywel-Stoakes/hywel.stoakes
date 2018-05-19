@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-05-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -17,7 +17,7 @@ weight = 60
 
 <!--This is an example of using the *custom* widget to create your own homepage section.-->
 
-My previous role was sessional teaching for the following courses at The University Melbourne:
+I have taught the following courses at The University of Melbourne as a sessional lecturer:
 
 - LING20005: Introductory Phonetics
 - LING90001: Experimental Phonetics
