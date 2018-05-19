@@ -2,7 +2,7 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-04-20T00:00:00"
 
 title = "Projects"
 subtitle = ""
@@ -41,8 +41,8 @@ filter_default = 0
   tag = ".phonetics"
   
 [[filter]]
-  name = "Phonology"
-  tag = ".phonology"
+  name = "Aerodynamics"
+  tag = ".aerodynamics"
 
 +++
 
