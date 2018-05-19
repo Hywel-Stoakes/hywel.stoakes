@@ -26,7 +26,8 @@ weight = 3
 
 This is a prototype computer-based pronunciation tool developed at the University of Auckland by a team of researchers that provides users with real time feedback on their own pronunciation of Te Reo Māori. :rocket:
 <br>
-# <small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
+<!--
+ # <small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
 # <br><br>
 # <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=star&amp;count=true&amp;size=large" scrolling="0" width="160px" height="30px" frameborder="0"></iframe>
 # <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=gcushen&amp;repo=hugo-academic&amp;type=fork&amp;count=true&amp;size=large" scrolling="0" width="158px" height="30px" frameborder="0"></iframe>
@@ -49,3 +50,4 @@ This is a prototype computer-based pronunciation tool developed at the Universit
 #     });    
 # }  
 # </script>
+-->
