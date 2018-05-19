@@ -32,18 +32,18 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["Aerodynamics"]
+projects = ["aerodynamics"]
 
 # Links (optional).
 url_pdf = "https://www.academia.edu/36668290/Nasal_aerodynamics_and_coarticulation_in_Bininj_Kunwok_Smoothing_Spline_Analysis_of_Variance"
-url_preprint = "#"
-url_code = "#"
+url_preprint = ""
+url_code = ""
 url_dataset = "http://hywel.github.io/data/df_VNV_V1.csv"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
