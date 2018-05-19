@@ -1,18 +1,15 @@
-# This file is a template, and might need editing before it works on your project.
-# Full project: https://gitlab.com/pages/hugo
-image: dettmering/hugo-build
+image: debian:buster-slim
+
+before_script:
+  - apt-get update && apt-get -y install pandoc r-base
+  - R -e "install.packages('blogdown',repos='http://cran.rstudio.com')"
+  - R -e "blogdown::install_hugo()"
 
 pages:
   script:
-  - hugo
+    - R -e "blogdown::build_site()"
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
-  
-test:
-  script:
-  - hugo
-  except:
-  - master
+    - master
