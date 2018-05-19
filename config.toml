@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hstoakes@unimelb.edu.au"
+    link = "mailto:h.stoakes@auckland.ac.nz"
 
   [[params.social]]
     icon = "twitter"
