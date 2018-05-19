@@ -1,5 +1,5 @@
 +++
-title = "Nasal aerodynamics and coarticulation in {Bininj Kunwok}: Smoothing Spline Analysis of Variance"
+title = "Nasal aerodynamics and coarticulation in Bininj Kunwok: Smoothing Spline Analysis of Variance"
 date = "2016-12-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
