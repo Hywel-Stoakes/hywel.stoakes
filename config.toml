@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bio-avatar1.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "hstoakes@unimelb.edu.au"
+  email = "h.stoakes@auckland.ac.nz"
   address = ""
   office_hours = ""
   phone = ""
