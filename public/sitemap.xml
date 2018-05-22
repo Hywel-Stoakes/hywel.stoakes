@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/a-new-home/</loc>
+      <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/</loc>
       <lastmod>2018-05-20T00:00:00+00:00</lastmod>
     </url>
@@ -123,6 +132,16 @@
     
     <url>
     
+      <loc>/categories/academia/</loc>
+      <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/aerodynamics/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -134,6 +153,7 @@
     <url>
     
       <loc>/categories/</loc>
+      <lastmod>2018-05-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -224,6 +244,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/travel/</loc>
+      <lastmod>2018-05-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
