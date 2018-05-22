@@ -17,16 +17,7 @@
       
       <guid>/post/a-new-home/</guid>
       <description>&lt;p&gt;I have recently moved institution and moved country to join a project researching pronunciation in Te Reo Māori at the University of Auckland in New Zealand. The outcome will be an app that helps a speaker become more confident and fluent with their pronunciation of Te Reo. So I thought I shoud update my website and maybe give &lt;em&gt;it&lt;/em&gt; a new home too. This is work in progress, as all my projects seem to be. It is still very much the boilerplate version of the Academic theme in Hugo &lt;a href=&#34;https://github.com/gcushen/hugo-academic&#34;&gt;Academic theme in Hugo&lt;/a&gt;. As you will probably note if you visit more than once, for a while there are still many default elements visible, hopefully over time this will start to morph into a more individual expression of my research.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>/post/test-post/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test-post/</guid>
-      <description>&lt;p&gt;This is a test&lt;/p&gt;
+&lt;p&gt;On a technical side note regarding deploying a website: When I create a post the date is automatically assigned by &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;blogdown&lt;/a&gt; but this date does not match the date for my site host (because it is US based) so my posts don’t become live until it is midnight in their timezone - This is easily fixed by changing the date when I initially create the post to the day before.&lt;/p&gt;
 </description>
     </item>
     
