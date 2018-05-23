@@ -11,6 +11,7 @@ tags:
 header:
   caption: 'A waveform'
   image: 'headers/waveform.jpg'
+summary: 'In this post I will test some of the audio capabilities of Hugo using HTML5 and Javascript.'  
 ---
 
 # A test of HTML5 audio in Hugo
@@ -36,3 +37,5 @@ Some text to break up the players
   <p>
     The zoom example shows how to use the <code>zoom</code> method and an HTML5 slider to zoom the waveform in and out.
   </p>
+  
+  The fact that I can embed audio is really great. 

@@ -21,7 +21,7 @@ weight = 3
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "./post/getting-started/"
-  label = '<i class="fa fa-download"></i> Preview'
+  label = '<i class="fa fa-download"></i> Learn More'
 +++
 
 This is a prototype computer-based pronunciation tool developed at the University of Auckland by a team of researchers that provides users with real time feedback on their own pronunciation of Te Reo Māori. :rocket:
