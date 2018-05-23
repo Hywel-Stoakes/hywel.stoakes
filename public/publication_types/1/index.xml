@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Hywel Stoakes</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Hywel Stoakes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nasal aerodynamics and coarticulation in Bininj Kunwok: Smoothing Spline Analysis of Variance</title>
+      <link>/publication/smoothing-spline/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/smoothing-spline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Pressure Impulse in Australian Languages: Bininj Gun-wok</title>
+      <link>/publication/pressure-impulse/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pressure-impulse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

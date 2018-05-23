@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Hywel Stoakes</title>
+    <link>/tags/html/</link>
+    <description>Recent content in Html on Hywel Stoakes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Test of HTML5 Audio Capabilities in Hugo</title>
+      <link>/post/audio-files/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/audio-files/</guid>
+      <description> A test of HTML5 audio in Hugo Here is an audio file (pulmonic consonant between two vowels).
+Your browser does not support the audio element Some text to break up the players
+Your browser does not support the audio element Some Javascript  Play
+  </description>
+    </item>
+    
+  </channel>
+</rss>
