@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>MPAi: a prototype computer-based pronunciation tool for Te Reo Māori</title>
+      <title>MPAi: A pronunciation aid for Te Reo Māori</title>
       <link>/home/hero/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +1200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>This is a prototype computer-based pronunciation tool developed at the University of Auckland by a team of researchers that provides users with real time feedback on their own pronunciation of Te Reo Māori. 🚀 Latest release # #  #  # # # (function defer() { # if (window.jQuery) { # jQuery(document).ready(function(){ # GetLatestReleaseInfo(); # }); # } else { # setTimeout(function() { defer() }, 50); # } # })(); # function GetLatestReleaseInfo() { # $.</description>
+      <description>This is a prototype for a computer-based pronunciation tool providing users with real time feedback on their own pronunciation of Te Reo Māori. This is the work of a team of researchers at the University of Auckland led by Assoc. Prof. Catherine Watson and Dr Peter Keegan. 🚀 Latest release # #  #  # # # (function defer() { # if (window.jQuery) { # jQuery(document).ready(function(){ # GetLatestReleaseInfo(); # }); # } else { # setTimeout(function() { defer() }, 50); # } # })(); # function GetLatestReleaseInfo() { # $.</description>
     </item>
     
     <item>
