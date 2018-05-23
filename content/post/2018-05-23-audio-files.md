@@ -23,10 +23,16 @@ Some text to break up the players
 
 {{< audio src="/audio/aGa.wav" >}}
 
-# Some Javascript
+# Embedded Javascript 
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.4.0/wavesurfer.min.js"></script>
 
-<script><div id="waveform"></div><div style="text-align: center"><button class="btn btn-primary" onclick="wavesurfer.playPause()"><i class="glyphicon glyphicon-play"></i>Play</button><p class="row"><div class="col-xs-1"><i class="glyphicon glyphicon-zoom-in"></i></div><div class="col-xs-10"><input id="slider" type="range" min="1" max="200" value="1" style="width: 100%" /></div><div class="col-xs-1"><i class="glyphicon glyphicon-zoom-out"></i></div></p></div></script>
 
-<script src="script/wavesurfer_demo.js"></script>
+<h2 id="zoom">Zoom</h2>
+
+<p data-height="265" data-theme-id="0" data-slug-hash="RLPKNw" data-default-tab="result" data-user="hywel_" data-embed-version="2" data-pen-title="wavesurfer.js zoom" class="codepen">See the Pen <a href="https://codepen.io/hywel_/pen/RLPKNw/">wavesurfer.js zoom</a> by Hywel Stoakes (<a href="https://codepen.io/hywel_">@hywel_</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+  <p>
+    The zoom example shows how to use the <code>zoom</code> method and an HTML5 slider to zoom the waveform in and out.
+  </p>
