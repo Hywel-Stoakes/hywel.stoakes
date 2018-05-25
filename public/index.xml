@@ -87,8 +87,6 @@ Your browser does not support the audio element
 
 &lt;h1 id=&#34;embedded-javascript&#34;&gt;Embedded Javascript&lt;/h1&gt;
 
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.2.3/wavesurfer.min.js&#34;&gt;&lt;/script&gt;
-
 &lt;h2 id=&#34;zoom&#34;&gt;Zoom&lt;/h2&gt;
 
 &lt;p data-height=&#34;265&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;RLPKNw&#34; data-default-tab=&#34;result&#34; data-user=&#34;hywel_&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;wavesurfer.js zoom&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;https://codepen.io/hywel_/pen/RLPKNw/&#34;&gt;wavesurfer.js zoom&lt;/a&gt; by Hywel Stoakes (&lt;a href=&#34;https://codepen.io/hywel_&#34;&gt;@hywel_&lt;/a&gt;) on &lt;a href=&#34;https://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
