@@ -26,7 +26,7 @@ Some text to break up the players
 
 # Embedded Javascript 
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.4.0/wavesurfer.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.2.3/wavesurfer.min.js"></script>
 
 
 <h2 id="zoom">Zoom</h2>
@@ -38,4 +38,7 @@ Some text to break up the players
     The zoom example shows how to use the <code>zoom</code> method and an HTML5 slider to zoom the waveform in and out.
   </p>
   
-  The fact that I can embed audio is really great. 
+  The fact that I can embed audio and see a visualisation is really encouraging! I just have to work out how to make it local on a static site?
+  
+
+

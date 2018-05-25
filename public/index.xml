@@ -87,7 +87,7 @@ Your browser does not support the audio element
 
 &lt;h1 id=&#34;embedded-javascript&#34;&gt;Embedded Javascript&lt;/h1&gt;
 
-&lt;script src=&#34;//cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.4.0/wavesurfer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.2.3/wavesurfer.min.js&#34;&gt;&lt;/script&gt;
 
 &lt;h2 id=&#34;zoom&#34;&gt;Zoom&lt;/h2&gt;
 
@@ -99,7 +99,7 @@ Your browser does not support the audio element
   &lt;/p&gt;
   
 
-&lt;p&gt;The fact that I can embed audio is really great.&lt;/p&gt;
+&lt;p&gt;The fact that I can embed audio and see a visualisation is really encouraging! I just have to work out how to make it local on a static site?&lt;/p&gt;
 </description>
     </item>
     
