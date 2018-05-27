@@ -3,7 +3,7 @@ See documentation for more details.
 'docs/shortcodes/audio.md'
 -->
 <audio controls
-class="audio_controls {{ .Get "class" }}"
+ class="audio_controls {{ .Get "class" }}"
 {{ with .Get "id" }}id="{{ . }}"{{ end }}
 {{ with .Get "preload" }}preload="{{ . }}"{{ else }}preload="metadata"{{ end }}
 
