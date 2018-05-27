@@ -26,14 +26,8 @@ Some text to break up the players
 
 # Embedded Javascript 
 
-<h2 id="zoom">Zoom</h2>
-
 <p data-height="265" data-theme-id="0" data-slug-hash="RLPKNw" data-default-tab="result" data-user="hywel_" data-embed-version="2" data-pen-title="wavesurfer.js zoom" class="codepen">See the Pen <a href="https://codepen.io/hywel_/pen/RLPKNw/">wavesurfer.js zoom</a> by Hywel Stoakes (<a href="https://codepen.io/hywel_">@hywel_</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-  <p>
-    The zoom example shows how to use the <code>zoom</code> method and an HTML5 slider to zoom the waveform in and out.
-  </p>
-  
   The fact that I can embed audio and see a visualisation is really encouraging! I just have to work out how to make it local on a static site?
 

@@ -87,15 +87,8 @@ Your browser does not support the audio element
 
 &lt;h1 id=&#34;embedded-javascript&#34;&gt;Embedded Javascript&lt;/h1&gt;
 
-&lt;h2 id=&#34;zoom&#34;&gt;Zoom&lt;/h2&gt;
-
-&lt;p data-height=&#34;265&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;RLPKNw&#34; data-default-tab=&#34;result&#34; data-user=&#34;hywel_&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;wavesurfer.js zoom&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;https://codepen.io/hywel_/pen/RLPKNw/&#34;&gt;wavesurfer.js zoom&lt;/a&gt; by Hywel Stoakes (&lt;a href=&#34;https://codepen.io/hywel_&#34;&gt;@hywel_&lt;/a&gt;) on &lt;a href=&#34;https://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&#34;https://production-assets.codepen.io/assets/embed/ei.js&#34;&gt;&lt;/script&gt;
-
-  &lt;p&gt;
-    The zoom example shows how to use the &lt;code&gt;zoom&lt;/code&gt; method and an HTML5 slider to zoom the waveform in and out.
-  &lt;/p&gt;
-  
+&lt;p&gt;&lt;p data-height=&#34;265&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;RLPKNw&#34; data-default-tab=&#34;result&#34; data-user=&#34;hywel_&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;wavesurfer.js zoom&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;https://codepen.io/hywel_/pen/RLPKNw/&#34;&gt;wavesurfer.js zoom&lt;/a&gt; by Hywel Stoakes (&lt;a href=&#34;https://codepen.io/hywel_&#34;&gt;@hywel_&lt;/a&gt;) on &lt;a href=&#34;https://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&#34;https://production-assets.codepen.io/assets/embed/ei.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;The fact that I can embed audio and see a visualisation is really encouraging! I just have to work out how to make it local on a static site?&lt;/p&gt;
 </description>
