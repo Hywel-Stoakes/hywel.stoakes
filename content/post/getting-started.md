@@ -14,7 +14,7 @@ caption = "Image credit: [**MPAi**]()"
 +++
 
 #Development
-MPAi has been in development over a number of years under the guidence of Catherine Watson and Peter Keegan and has emerged from the MAONZE research group. 
+MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidence of Catherine Watson and Peter Keegan emerging from the MAONZE research group. 
 
 There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.
 
