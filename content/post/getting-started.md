@@ -25,6 +25,7 @@ Currently the team are updating the app to a client server model and updating th
 
 For more information about Te Reo Māori with further links see Peter Keegan's site: [Māori Language Information](http://www.maorilanguage.info/index.html)
 
+A link to the [MAONZE project page](http://homepages.engineering.auckland.ac.nz/~cwat057/MAONZE/MAONZE.html)
 ## Press for MPAi
 [An Article about MPAi in the NZ press](https://www.newsroom.co.nz/@future-learning/2017/09/14/47842/academics-and-elders-merge-skills-for-unique-mori-language-tool)
 
