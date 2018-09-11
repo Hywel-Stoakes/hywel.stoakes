@@ -18,7 +18,7 @@ MPAi has been in development over a number of years at the University of Aucklan
 
 There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.
 
-![Screenshot](screenshots/mpai1.png)
+![Screenshot](/img/mpai1.png)
 
 ## Current and Future Work
 Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize [Kaldi](http://kaldi-asr.org). The formant feedback module is being updated to run in real-time on a cloud based system.
