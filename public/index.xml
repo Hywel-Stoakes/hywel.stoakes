@@ -12,6 +12,40 @@
     
     <item>
       <title>MPAi: A pronunciation aid for Te Reo Māori</title>
+      <link>/post/mpai_landing/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +1200</pubDate>
+      
+      <guid>/post/mpai_landing/</guid>
+      <description>
+
+&lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
+
+&lt;p&gt;MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidence of Catherine Watson and Peter Keegan emerging from the MAONZE research group.&lt;/p&gt;
+
+&lt;p&gt;There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/mpai1.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;current-and-future-work&#34;&gt;Current and Future Work&lt;/h2&gt;
+
+&lt;p&gt;Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize &lt;a href=&#34;http://kaldi-asr.org&#34; target=&#34;_blank&#34;&gt;Kaldi&lt;/a&gt;. The formant feedback module is being updated to run in real-time on a cloud based system.&lt;/p&gt;
+
+&lt;p&gt;For more information about Te Reo Māori with further links see Peter Keegan&amp;rsquo;s site: &lt;a href=&#34;http://www.maorilanguage.info/index.html&#34; target=&#34;_blank&#34;&gt;Māori Language Information&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A link to the &lt;a href=&#34;http://homepages.engineering.auckland.ac.nz/~cwat057/MAONZE/MAONZE.html&#34; target=&#34;_blank&#34;&gt;MAONZE project page&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;press-for-mpai&#34;&gt;Press for MPAi&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.newsroom.co.nz/@future-learning/2017/09/14/47842/academics-and-elders-merge-skills-for-unique-mori-language-tool&#34; target=&#34;_blank&#34;&gt;An Article about MPAi in the NZ press&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;māori-language-week&#34;&gt;Māori Language Week&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tewikiotereomaori.co.nz/&#34; target=&#34;_blank&#34;&gt;Te Wiki o te Reo Māori | Māori Language Week 2018&lt;/a&gt; (10 -16 September 2018)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MPAi: A pronunciation aid for Te Reo Māori</title>
       <link>/post/getting-started/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +1200</pubDate>
       
