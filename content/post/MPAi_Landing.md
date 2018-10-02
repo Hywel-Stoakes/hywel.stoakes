@@ -6,7 +6,7 @@ lastmod = 2018-09-10
 draft = false
 
 tags = ["research"]
-summary = "An feedback aid for leaning and consolodating pronunciation in Te Reo Māori"
+summary = "An feedback aid for leaning and consolidating pronunciation in Te Reo Māori"
 
 [header]
 image = "headers/waveform.jpg"
@@ -14,7 +14,7 @@ caption = "Image credit: [**MPAi**]()"
 +++
 
 # Development
-MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidence of Catherine Watson and Peter Keegan emerging from the MAONZE research group. 
+MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidance of Catherine Watson and Peter Keegan emerging from the MAONZE research group. 
 
 There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.
 
@@ -24,7 +24,7 @@ There have been a number of different versions of the application to date. Orang
 Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize [Kaldi](http://kaldi-asr.org). The formant feedback module is being updated to run in real-time on a cloud based system.
 
 ### MPAi-Formants
-The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very resopnsive.
+The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very responsive.
 
 ![Screenshot2](/img/MPAi-new.png)
 
