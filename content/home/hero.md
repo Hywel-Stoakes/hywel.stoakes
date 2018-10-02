@@ -20,7 +20,7 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
+  url = "./post/mpai_landing/"
   label = '<i class="fa fa-download"></i> Learn More'
 +++
 
