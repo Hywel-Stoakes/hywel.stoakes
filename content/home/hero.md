@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> Learn More'
 +++
 
-This is a prototype for a computer-based pronunciation tool providing users with real time feedback on their own pronunciation of Te Reo Māori. This is the work of a team of researchers at the University of Auckland led by Assoc. Prof. Catherine Watson and Dr Peter Keegan. :rocket:
+This is showcase of work on the prototype for a computer-based pronunciation tool providing users with real time feedback on the speaker's own pronunciation of Te Reo Māori. The team, at the University of Auckland | Te Whare Wānanga o Tāmaki Makaurau, is led by Assoc. Prof. Catherine Watson and Dr Peter Keegan. :rocket:
 <br>
 
 <!-- # <small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
