@@ -9,8 +9,8 @@ tags = ["research"]
 summary = "An feedback aid for leaning and consolidating pronunciation in Te Reo Māori"
 
 [header]
-image = "headers/waveform.jpg"
-caption = "Image credit: [**MPAi**]()"
+image = "headers/waveformsmall.png"
+caption = "Image credit: [**MPAi**](https://www.shutterstock.com)"
 +++
 
 # Development
