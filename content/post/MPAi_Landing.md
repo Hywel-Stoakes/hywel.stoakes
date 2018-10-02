@@ -23,8 +23,17 @@ There have been a number of different versions of the application to date. Orang
 ## Current and Future Work
 Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize [Kaldi](http://kaldi-asr.org). The formant feedback module is being updated to run in real-time on a cloud based system.
 
+### MPAi-Formants
+The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very resopnsive.
+
+![Screenshot2](/img/MPAi-new.png)
+
+This will be updated in the next few weeks and will form part of a suite of apps.
+
+### Information on Te Reo Māori (The Māori Language)
 For more information about Te Reo Māori with further links see Peter Keegan's site: [Māori Language Information](http://www.maorilanguage.info/index.html)
 
 A link to the [MAONZE project page](http://homepages.engineering.auckland.ac.nz/~cwat057/MAONZE/MAONZE.html)
+
 ## Press for MPAi
 [An Article about MPAi in the NZ press](https://www.newsroom.co.nz/@future-learning/2017/09/14/47842/academics-and-elders-merge-skills-for-unique-mori-language-tool)

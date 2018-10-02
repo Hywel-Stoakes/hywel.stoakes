@@ -30,6 +30,16 @@
 
 &lt;p&gt;Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize &lt;a href=&#34;http://kaldi-asr.org&#34; target=&#34;_blank&#34;&gt;Kaldi&lt;/a&gt;. The formant feedback module is being updated to run in real-time on a cloud based system.&lt;/p&gt;
 
+&lt;h3 id=&#34;mpai-formants&#34;&gt;MPAi-Formants&lt;/h3&gt;
+
+&lt;p&gt;The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very resopnsive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/MPAi-new.png&#34; alt=&#34;Screenshot2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This will be updated in the next few weeks and will form part of a suite of apps.&lt;/p&gt;
+
+&lt;h3 id=&#34;information-on-te-reo-māori-the-māori-language&#34;&gt;Information on Te Reo Māori (The Māori Language)&lt;/h3&gt;
+
 &lt;p&gt;For more information about Te Reo Māori with further links see Peter Keegan&amp;rsquo;s site: &lt;a href=&#34;http://www.maorilanguage.info/index.html&#34; target=&#34;_blank&#34;&gt;Māori Language Information&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;A link to the &lt;a href=&#34;http://homepages.engineering.auckland.ac.nz/~cwat057/MAONZE/MAONZE.html&#34; target=&#34;_blank&#34;&gt;MAONZE project page&lt;/a&gt;&lt;/p&gt;
