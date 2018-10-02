@@ -26,7 +26,7 @@ Currently the team are updating the app to a client server model and updating th
 ### MPAi-Formants
 The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very responsive.
 
-![Screenshot2](/img/MPAi-new.png)
+![Screenshot2](/img/MPAinew.png)
 
 This will be updated in the next few weeks and will form part of a suite of apps.
 
