@@ -26,11 +26,11 @@ Currently the team are updating the app to a client server model and updating th
 
 ### MPAi-Formants
 
-The formant feedback app has been updated and is web accessible. The app is currently undergoing a few interface tweaks, but is very responsive.
+The formant feedback app has been updated by a team here at the University of Auckland (see app for details) and this is now web accessible ([here](https://nectar.kevinhira.com)).
 
 ![Screenshot2](/img/MPAinew.png)
 
-This will be updated in the next few weeks and will form part of a suite of apps.
+This will form part of a suite of apps that will aid pronunciation in Te Reo Māori.
 
 ### Information on Te Reo Māori (The Māori Language)
 
