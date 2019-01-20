@@ -14,15 +14,15 @@ caption = "Image credit: [**MPAi**](https://www.shutterstock.com)"
 +++
 
 # Development
-MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidance of Catherine Watson and Peter Keegan emerging from the MAONZE research group. 
+MPAi has been in development over a number of years at the University of Auckland in Aotearoa, New Zealand, under the guidance of Assoc. Prof. Catherine Watson and Dr. Peter Keegan emerging from the MAONZE research group. 
 
-There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.
+There have been a number of different versions of the application to date. Orange, Green, Red and a newly developed online version (MPAi Online). These versions form part of the development and user testing phase which will be amalgamated into a single stand alone computer application.
 
 ![Screenshot](/img/mpai1.png)
 
 ## Current and Future Work
 
-Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize [Kaldi](http://kaldi-asr.org). The formant feedback module is being updated to run in real-time on a cloud based system.
+Currently the team are updating the app to a client server model and additionally updating the speech to text recognition engine to utilize [Kaldi](http://kaldi-asr.org). The formant feedback module is being updated to run in real-time on a cloud based system.
 
 ### MPAi-Formants
 

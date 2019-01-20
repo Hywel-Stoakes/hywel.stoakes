@@ -20,15 +20,15 @@
 
 &lt;h1 id=&#34;development&#34;&gt;Development&lt;/h1&gt;
 
-&lt;p&gt;MPAi has been in development over a number of years at the University of Auckland in Aotearoa New Zealand, under the guidance of Catherine Watson and Peter Keegan emerging from the MAONZE research group.&lt;/p&gt;
+&lt;p&gt;MPAi has been in development over a number of years at the University of Auckland in Aotearoa, New Zealand, under the guidance of Assoc. Prof. Catherine Watson and Dr. Peter Keegan emerging from the MAONZE research group.&lt;/p&gt;
 
-&lt;p&gt;There have been a number of different versions of the application to date. Orange, Green, Red and an Online version. These versions form part of the development and user testing phase.&lt;/p&gt;
+&lt;p&gt;There have been a number of different versions of the application to date. Orange, Green, Red and a newly developed online version (MPAi Online). These versions form part of the development and user testing phase which will be amalgamated into a single stand alone computer application.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/mpai1.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;current-and-future-work&#34;&gt;Current and Future Work&lt;/h2&gt;
 
-&lt;p&gt;Currently the team are updating the app to a client server model and updating the speech to text recognition to utilize &lt;a href=&#34;http://kaldi-asr.org&#34; target=&#34;_blank&#34;&gt;Kaldi&lt;/a&gt;. The formant feedback module is being updated to run in real-time on a cloud based system.&lt;/p&gt;
+&lt;p&gt;Currently the team are updating the app to a client server model and additionally updating the speech to text recognition engine to utilize &lt;a href=&#34;http://kaldi-asr.org&#34; target=&#34;_blank&#34;&gt;Kaldi&lt;/a&gt;. The formant feedback module is being updated to run in real-time on a cloud based system.&lt;/p&gt;
 
 &lt;h3 id=&#34;mpai-formants&#34;&gt;MPAi-Formants&lt;/h3&gt;
 
