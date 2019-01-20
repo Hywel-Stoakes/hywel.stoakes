@@ -26,7 +26,7 @@ Currently the team are updating the app to a client server model and additionall
 
 ### MPAi-Formants
 
-The formant feedback app has been updated by a team here at the University of Auckland (see app for details) and this is now web accessible ([here](https://nectar.kevinhira.com)).
+The formant feedback app has been updated by a team here at the University of Auckland (see app for details) and this is now web accessible ([here](https://nectar.kevinhira.com)). (This is offline as of Jan 2019 but is being moved to a new home). 
 
 ![Screenshot2](/img/MPAinew.png)
 
@@ -34,7 +34,7 @@ This will form part of a suite of apps that will aid pronunciation in Te Reo Mā
 
 ### Information on Te Reo Māori (The Māori Language)
 
-For more information about Te Reo Māori with further links see Peter Keegan's site: [Māori Language Information](http://www.maorilanguage.info/index.html)
+For more information about Te Reo Māori with further links see Dr. Peter Keegan's site: [Māori Language Information](http://www.maorilanguage.info/index.html)
 
 A link to the [MAONZE project page](http://homepages.engineering.auckland.ac.nz/~cwat057/MAONZE/MAONZE.html)
 
