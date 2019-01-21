@@ -6,7 +6,7 @@ lastmod = 2018-09-10
 draft = false
 
 tags = ["research"]
-summary = "A feedback aid for leaning and consolidating pronunciation in Te Reo Māori"
+summary = "A feedback aid for learning and consolidating pronunciation in Te Reo Māori"
 
 [header]
 image = "headers/waveformsmall.png"
