@@ -21,5 +21,27 @@
       <description></description>
     </item>
     
+    <item>
+      <title>A New Home</title>
+      <link>/post/a-new-home/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-new-home/</guid>
+      <description>I have recently moved institution and moved country to join a project researching pronunciation in Te Reo Māori at the University of Auckland in New Zealand. The outcome will be an app that helps a speaker become more confident and fluent with their pronunciation of Te Reo. So I thought I should update my website and maybe give it a new home too. This is work in progress, as all my projects seem to be.</description>
+    </item>
+    
+    <item>
+      <title>A Test of HTML5 Audio Capabilities in Hugo</title>
+      <link>/post/audio-files/</link>
+      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/audio-files/</guid>
+      <description>A test of HTML5 audio in Hugo Here is an audio file (pulmonic consonant between two vowels).
+Your browser does not support the audio element  Some text to break up the players
+Your browser does not support the audio element  Embedded Javascript See the Pen wavesurfer.js zoom by Hywel Stoakes (@hywel_) on CodePen.
+
+The fact that I can embed audio and see a visualisation is really encouraging!</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,9 +5,7 @@ date: '2017-04-24'
 slug: audio-files
 categories:
   - Audio
-tags:
-  - audio
-  - html
+tags: [R, EmuR, research, audio]
 header:
   caption: 'A waveform'
   image: 'headers/waveform.jpg'
