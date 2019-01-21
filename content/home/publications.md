@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20
 
 title = "Recent Publications"
-subtitle = "A more comprehensive list of my publications"
+subtitle = "A more comprehensive publication survey"
 
 # Order that this section will appear in.
 weight = 20

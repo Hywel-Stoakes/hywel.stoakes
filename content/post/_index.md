@@ -7,6 +7,6 @@ highlight = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "posts.jpg"
-caption = ""
+caption = "A few thought provoking posts"
 
 +++
