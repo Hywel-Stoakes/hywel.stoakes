@@ -19,7 +19,7 @@ weight = 60
 
 # The University of Melbourne
 
-I have coordinated the following courses at The University of Melbourne as a sessional lecturer:
+I have coordinated the following courses at The University of Melbourne as a sessional lecturer (12 weeks x 2 Lectures):
 
 - LING20005: Introductory Phonetics
 - LING20009: Language in Aboriginal Australia
@@ -28,7 +28,7 @@ I have coordinated the following courses at The University of Melbourne as a ses
 
 # Latrobe University
 
-At Latrobe University as a sessional lecturer:
+At Latrobe University as a sessional lecturer (12 weeks x 1 Seminar + Tutorials):
 
 - LIN2PHP: Phonetics (LIN2SOL)
 
