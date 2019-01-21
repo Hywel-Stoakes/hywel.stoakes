@@ -21,15 +21,5 @@
       <description>Information about aerodynamics and speech. Aerodynamics is the study of air movement and this motion of air is an essential component to speech and singing. We use our diaphram and lungs to push (or release) breath out through our mouths, past our larynx and the resulting signal is what we call speech. We can think of speech as breathing, changed (a quote from a paper I can&amp;rsquo;t track down at the moment).</description>
     </item>
     
-    <item>
-      <title>Aerodynamics</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>Machine learning and speech recognition Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Marov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
-Deep Learning (From Wikipedia) Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.</description>
-    </item>
-    
   </channel>
 </rss>
