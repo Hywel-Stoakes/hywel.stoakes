@@ -8,7 +8,7 @@ categories:
 tags: [R, EmuR, research, audio]
 header:
   caption: 'A waveform'
-  image: 'headers/waveform.jpg'
+  image: 'headers/waveformsmall.png'
 summary: 'In this post I will test some of the audio capabilities of Hugo using HTML5 and Javascript.'
 ---
 
