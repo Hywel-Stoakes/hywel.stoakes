@@ -36,7 +36,8 @@ selected = false
 projects = ["aerodynamics"]
 
 # Links (optional).
-url_pdf = "http://www.assta.org/sst/SST-14/4.B.%20ACOUSTIC%20PHONETICS/2.%20STOAKES.pdf"
+#url_pdf = "http://www.assta.org/sst/SST-14/4.B.%20ACOUSTIC%20PHONETICS/2.%20STOAKES.pdf"
+url_pdf = "publication/pdfs/Stoakes - 2014 - Revisiting the Pressure Impulse in Australian Languages - A.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
