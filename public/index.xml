@@ -11,26 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>EmuR for Speech Research</title>
-      <link>/talk/emur-talk/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +1300</pubDate>
-      
-      <guid>/talk/emur-talk/</guid>
-      <description>&lt;p&gt;The Slides for this talk will be available here very soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>EmuR for Speech Research</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +1300</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;p&gt;The Slides for this talk will be available here very soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>EmuR</title>
       <link>/project/emur/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
@@ -46,6 +26,16 @@
       
       <guid>/project/mpai/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>EmuR for Speech Research</title>
+      <link>/talk/emur-talk/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +1300</pubDate>
+      
+      <guid>/talk/emur-talk/</guid>
+      <description>&lt;p&gt;The Slides for this talk will be available here very soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>

@@ -1,5 +1,5 @@
 +++
-date = 2019-01-25T00:00:00  # Schedule page publish date.
+date = 2019-01-17T00:00:00  # Schedule page publish date.
 
 title = "EmuR for Speech Research"
 time_start = 2018-12-19T11:00:00
