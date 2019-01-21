@@ -35,8 +35,8 @@ selected = true
 projects = ["aerodynamics"]
 
 # Links (optional).
-url_pdf = "https://www.academia.edu/36668290/Nasal_aerodynamics_and_coarticulation_in_Bininj_Kunwok_Smoothing_Spline_Analysis_of_Variance"
-url_preprint = ""
+url_pdf = "publication/pdfs/Stoakes - 2016 - Nasal aerodynamics and coarticulation in Bininj Kunwok - B.pdf"
+url_preprint = "https://www.academia.edu/36668290/Nasal_aerodynamics_and_coarticulation_in_Bininj_Kunwok_Smoothing_Spline_Analysis_of_Variance"
 url_code = ""
 url_dataset = "http://hywel.github.io/data/df_VNV_V1.csv"
 url_project = ""
