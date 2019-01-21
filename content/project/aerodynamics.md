@@ -28,7 +28,7 @@ caption = "Bubbles :smile:"
 
 +++
 
-#Information about aerodynamics and speech.
+# Information about aerodynamics and speech.
 
 Aerodynamics is the study of air movement and this motion of air is an essential component to speech and singing. We use our diaphram and lungs to push (or release) breath out through our mouths, past our larynx and the resulting signal is what we call speech. We can think of speech as breathing, changed (a quote from a paper I can't track down at the moment).
 
@@ -36,3 +36,7 @@ Air flows from a region of higher pressure to one of lower pressure. By manipula
 
 For more information regarding the aerodynamics of speech, I recommend: 
 [The Aerodynamics of Speech](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444317251.ch2) by Christine Shadle, in *The Handbook of Phonetic Sciences*, Hardcastle, Laver and Gibbon (eds.), 2nd ed., 2010, Wiley:Online
+
+# Aerodynamics and Australian Languages
+
+Under Construction - an article on the Aerodynamics of Nasals to appear in JIPA 2019
