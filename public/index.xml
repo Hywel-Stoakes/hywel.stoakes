@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MPAi</title>
+      <link>/project/mpai/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/mpai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MPAi: A pronunciation aid for Te Reo Māori</title>
       <link>/post/mpai_landing/</link>
       <pubDate>Mon, 10 Sep 2018 00:00:00 +1200</pubDate>
