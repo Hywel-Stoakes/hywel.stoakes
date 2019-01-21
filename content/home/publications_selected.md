@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = "Some recent publications that give an idea of current research"
+subtitle = "Some recent journal publications that give an idea of current research"
 
 # Order that this section will appear in.
 weight = 10
@@ -28,6 +28,6 @@ list_format = 2
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 +++
 
