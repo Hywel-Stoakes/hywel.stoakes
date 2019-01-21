@@ -27,8 +27,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/deep-learning/</guid>
-      <description>This is some information about aerodynamics and speech.
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo.</description>
+      <description>Machine learning and speech recognition Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Marov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
+Deep Learning (From Wikipedia) Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.</description>
     </item>
     
   </channel>
