@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>EmuR</title>
+      <link>/tags/emur/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/emur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aerodynamics</title>
       <link>/tags/aerodynamics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -45,15 +54,6 @@
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     

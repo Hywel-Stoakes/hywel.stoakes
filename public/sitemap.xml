@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/talk/emur-talk/</loc>
+      <lastmod>2019-01-25T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/example-talk/</loc>
+      <lastmod>2019-01-25T00:00:00+13:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/emur/</loc>
+      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/mpai/</loc>
       <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     </url>
@@ -68,15 +95,6 @@
     
     <url>
     
-      <loc>/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+13:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+13:00</lastmod>
     </url>
@@ -105,15 +123,6 @@
     <url>
     
       <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -163,6 +172,16 @@
     
       <loc>/categories/</loc>
       <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/emur/</loc>
+      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -243,16 +262,6 @@
     
       <loc>/tags/deep-learning/</loc>
       <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

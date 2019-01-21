@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EmuR on Hywel Stoakes</title>
+    <link>/tags/emur/</link>
+    <description>Recent content in EmuR on Hywel Stoakes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/emur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EmuR</title>
+      <link>/project/emur/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/emur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

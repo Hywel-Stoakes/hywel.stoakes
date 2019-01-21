@@ -1,14 +1,14 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2019-01-25T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "EmuR for Speech Research"
+time_start = 2018-12-19T11:00:00
+time_end = 2018-12-19T15:30:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event = "A Workshop For Using EmuR for Speech Research"
+event_url = "www.hywel-stoakes.net"
+location = "Auckland, Aotearoa | New Zealand"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -16,7 +16,7 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = ["EmuR"]
 
 # Links (optional).
 url_pdf = ""
@@ -33,9 +33,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "EMUwebAppIconroundCorners.png"
+caption = "From https://ips-lmu.github.io/The-EMU-SDMS-Manual/index.html :smile:"
 
 +++
 
-Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.
+The Slides for this talk will be available here very soon.
