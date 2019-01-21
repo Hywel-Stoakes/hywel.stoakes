@@ -5,7 +5,7 @@ active = true
 date = "2018-05-20T00:00:00"
 
 title = "Recent & Upcoming Talks"
-subtitle = ""
+subtitle = "Workshops and Lectures"
 
 # Order that this section will appear in.
 weight = 35
