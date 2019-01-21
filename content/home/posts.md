@@ -6,7 +6,7 @@ active = true
 date = "2018-05-16T00:00:00"
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "Personal Musings"
 
 # Order that this section will appear in.
 weight = 40

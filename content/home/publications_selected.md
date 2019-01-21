@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20
 
 title = "Selected Publications"
-subtitle = ""
+subtitle = "Some recent publications that give an idea of current research"
 
 # Order that this section will appear in.
 weight = 10
