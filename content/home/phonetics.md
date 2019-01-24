@@ -1,5 +1,5 @@
 +++
-# Recent Posts widget.
+# Phonetics widget.
 # This widget displays recent posts from `content/phonetics/`.
 widget = "phonetics"
 active = true
@@ -22,5 +22,5 @@ count = 5
 
 +++
 
-Some information about Crosslinguistic Phonetics and Phonetic Tools for analysing Acoustic and Articulatory data in **R**.
+Some information about crosslinguistic Phonetics and Phonetic Tools for analysing Acoustic and Articulatory data in **R**.
 
