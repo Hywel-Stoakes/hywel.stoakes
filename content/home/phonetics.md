@@ -1,7 +1,7 @@
 +++
 # Phonetics widget.
 # This widget displays recent posts from `content/phonetics/`.
-widget = "phonetics"
+widget = "posts"
 active = true
 date = "2019-01-21T00:00:00"
 
@@ -14,7 +14,7 @@ weight = 45
 # Filter posts by tag.
 #  By default, show all recent posts.
 #  Filtering example: `tags_include = ["hugo", "academic"]`
-tags_include = []
+tags_include = ["Phonetics"]
 tags_exclude = []
 
 # Number of posts to list.

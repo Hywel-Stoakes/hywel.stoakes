@@ -259,14 +259,14 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Phonetics"
+  url = "#phonetics"
   weight = 4
 
 [[menu.main]]
- name = "Phonetics"
- url = "#phonetics"
- weight = 5
+  name = "Projects"
+  url = "#projects"
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
