@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Phonetic Tools</title>
+      <link>/phonetics/phonetic-tools/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/phonetics/phonetic-tools/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;A great clickable IPA chart on that site that shows MRI, Ultrasound and some animations of the different speech sounds defined by the IPA (&lt;a href=&#34;https://www.seeingspeech.ac.uk/ipa-charts/&#34;&gt;IPA Chart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EmuR</title>
       <link>/project/emur/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>

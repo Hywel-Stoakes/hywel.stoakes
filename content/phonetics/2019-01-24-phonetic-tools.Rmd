@@ -1,0 +1,15 @@
+---
+title: Phonetic Tools
+author: Hywel Stoakes
+date: '2019-01-23'
+slug: phonetic-tools
+categories:
+  - Phonetics
+tags:
+  - Phonetics
+header:
+  caption: '© The International Phonetic Association'
+  image: 'header/ipapulmonics.png'
+---
+
+- A great clickable IPA chart on that site that shows MRI, Ultrasound and some animations of the different speech sounds defined by the IPA ([IPA Chart](https://www.seeingspeech.ac.uk/ipa-charts/)
