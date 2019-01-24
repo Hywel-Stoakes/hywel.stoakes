@@ -1,7 +1,7 @@
 +++
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
-widget = "posts"
+widget = "phonetics"
 active = true
 date = "2019-01-21T00:00:00"
 
@@ -22,3 +22,4 @@ count = 5
 
 +++
 
+Some information about Crosslinguistic Phonetics and Phonetic Tools for analysing Acoustic and Articulatory data in **R**.
