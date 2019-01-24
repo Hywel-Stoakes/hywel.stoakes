@@ -1,7 +1,7 @@
 +++
 # Phonetics widget.
 # This widget displays recent posts from `content/phonetics/`.
-widget = "posts"
+widget = "phonetics"
 active = true
 date = "2019-01-21T00:00:00"
 
@@ -18,7 +18,7 @@ tags_include = ["Phonetics"]
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 1
 
 +++
 
