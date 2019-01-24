@@ -1,6 +1,6 @@
 {{ $ := .root }}
 {{ $page := .page }}
-{{ $posts_len := len (where (where $.Site.RegularPages "Type" "post") ".Params.notonhomepage" nil) }}
+{{ $posts_len := len (where (where $.Site.RegularPages "Type" "phonetics") ".Params.notonhomepage" nil) }}
 
 <!-- Blog Posts widget -->
 <div class="row">
@@ -10,7 +10,7 @@
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
     {{ if gt $posts_len $page.Params.count }}
     <p class="view-all">
-      <a href="{{ "/post/" | relLangURL }}">
+      <a href="{{ "/phonetics/" | relLangURL }}">
         {{ i18n "more_posts" | markdownify }}
         <i class="fa fa-angle-double-right"></i>
       </a>
@@ -23,7 +23,7 @@
     {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
 
     {{ if gt (len $page.Params.tags_include) 0 }}
-      {{ $posts := where (where (where $.Site.RegularPages "Type" "post") ".Params.tags" "intersect" $page.Params.tags_include) ".Params.notonhomepage" nil }}
+      {{ $phonetics := where (where (where $.Site.RegularPages "Type" "phonetics") ".Params.tags" "intersect" $page.Params.tags_include) ".Params.notonhomepage" nil }}
 
       {{ $.Scratch.Add "show_post" "1" }}
       {{ range $post := first $page.Params.count $posts }}
@@ -44,13 +44,13 @@
 
       {{ $show_post := $.Scratch.Get "show_post" }}
       {{ if ne $show_post "0" }}
-        {{ $params := dict "post" . }}
+        {{ $params := dict "phonetics" . }}
         {{ partial "post_li" $params }}
       {{end}}
 
       {{ end }}
     {{ else}}
-      {{ $posts := where (where $.Site.RegularPages "Type" "post") ".Params.notonhomepage" nil }}
+      {{ $phonetics := where (where $.Site.RegularPages "Type" "phonetics") ".Params.notonhomepage" nil }}
 
       {{ $.Scratch.Add "show_post" "1" }}
       {{ range $post := first $page.Params.count $posts }}
@@ -71,7 +71,7 @@
 
       {{ $show_post := $.Scratch.Get "show_post" }}
       {{ if ne $show_post "0" }}
-        {{ $params := dict "post" . }}
+        {{ $params := dict "phonetics" . }}
         {{ partial "post_li" $params }}
       {{end}}
 
