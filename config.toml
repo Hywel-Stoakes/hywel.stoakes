@@ -234,6 +234,8 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/hywel-stoakes"
 
+[params.search]
+  engine = 1
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -290,6 +292,3 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-au"
-
-[params.search]
-  engine = 1
