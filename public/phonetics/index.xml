@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/phonetics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wrangling The Academia Theme</title>
+      <link>/phonetics/wrangling-the-academia-theme/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/phonetics/wrangling-the-academia-theme/</guid>
+      <description>The Academia Theme in Hugo This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of R code while I have the chance.
+The code below is from: Fifty ways to draw a volcano using package plot3D by Karline Soetaert
+# Preamble library(plot3D) # Reduce the resolution Volcano &amp;lt;- volcano[seq(1, nrow(volcano), by = 3), seq(1, ncol(volcano), by = 3)] image2D(Volcano, lighting = TRUE, rasterImage = TRUE, contour = list(col = &amp;quot;white&amp;quot;, labcex = 0.</description>
+    </item>
     
     <item>
       <title>Phonetic Tools</title>
@@ -18,7 +29,7 @@
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/phonetics/phonetic-tools/</guid>
-      <description>  A great clickable IPA chart on that site that shows MRI, Ultrasound and some animations of the different speech sounds defined by the IPA (IPA Chart  </description>
+      <description>  A great clickable IPA chart on that site that shows MRI, Ultrasound and some animations of the different speech sounds defined by the IPA (IPA Chart).  </description>
     </item>
     
   </channel>
