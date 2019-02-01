@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/phonetic/wrangling-the-academia-theme/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/phonetics/phonetic-tools/</loc>
       <lastmod>2019-01-23T00:00:00+00:00</lastmod>
     </url>
@@ -151,7 +160,7 @@
     <url>
     
       <loc>/categories/academia/</loc>
-      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,7 +180,7 @@
     <url>
     
       <loc>/categories/</loc>
-      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -200,6 +209,16 @@
     
     <url>
     
+      <loc>/phonetic/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/phonetics/</loc>
       <lastmod>2019-01-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -210,8 +229,8 @@
     
     <url>
     
-      <loc>/tags/phonetics/</loc>
-      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <loc>/categories/phonetics/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -220,8 +239,8 @@
     
     <url>
     
-      <loc>/categories/phonetics/</loc>
-      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+      <loc>/tags/phonetics/</loc>
+      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
