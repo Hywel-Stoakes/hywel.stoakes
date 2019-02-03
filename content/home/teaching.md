@@ -35,4 +35,4 @@ At Latrobe University as a sessional lecturer (12 weeks x 1 Seminar + Tutorials)
 # Guest Lecturer
 
 - LING10001: The Secret Life of Language (The University of Melbourne) - Semantics 4 Lectures
-- LIN2MKM: Making Meaning (LaTrobe) - 2 Lectures  (Semantics)
+- LIN2MKM: Making Meaning (Latrobe) - 2 Lectures  (Semantics)
