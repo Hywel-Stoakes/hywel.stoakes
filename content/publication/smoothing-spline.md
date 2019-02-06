@@ -3,7 +3,7 @@ title = "Nasal aerodynamics and coarticulation in Bininj Kunwok: Smoothing Splin
 date = "2016-12-16"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["HM Stoakes", "JM Fletcher", "AR Butcher"]
+authors = ["Hywel M Stoakes", "Janet M Fletcher", "Andrew R Butcher"]
 
 # Publication type.
 # Legend:
@@ -21,7 +21,7 @@ publication = "In *The Proceedings of the Sixteenth Australasian International C
 publication_short = "In *SST2016*"
 
 # Abstract and optional shortened version.
-abstract = "Nasal phonemes are well represented within the lexicon of BininjKunwok.1 This study examines intervocalic, word medial nasals and reports patterns of coarticulation using a Smoothing Spline Analysis of Variance (SSANOVA). This allows for detailed comparisons of peak nasal airflow across six female speakers of the language. Results show that in a VNV sequence there is very little anticipatory vowel nasalisation and greater carryover into a following vowel. The maximum peak nasal flow is delayed for coronals when compared to the onset of oral closure in the nasal, indicating a delayed velum opening gesture. The velar place of articulation is the exception to this pattern with some limited anticipatory nasalisation. The SSANOVA has shown to be an appropriate technique for quantifying these patterns and dynamic speech data in general."
+abstract = "Nasal phonemes are well represented within the lexicon of Bininj Kunwok. This study examines intervocalic, word medial nasals and reports patterns of coarticulation using a Smoothing Spline Analysis of Variance (SSANOVA). This allows for detailed comparisons of peak nasal airflow across six female speakers of the language. Results show that in a VNV sequence there is very little anticipatory vowel nasalisation and greater carryover into a following vowel. The maximum peak nasal flow is delayed for coronals when compared to the onset of oral closure in the nasal, indicating a delayed velum opening gesture. The velar place of articulation is the exception to this pattern with some limited anticipatory nasalisation. The SSANOVA has shown to be an appropriate technique for quantifying these patterns and dynamic speech data in general."
 
 # Featured image thumbnail (optional)
 image_preview = ""

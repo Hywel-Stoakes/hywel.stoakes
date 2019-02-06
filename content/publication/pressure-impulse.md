@@ -3,7 +3,7 @@ title = "Revisiting the Pressure Impulse in Australian Languages: Bininj Gun-wok
 date = "2014-12-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["HM Stoakes", "AR Butcher","JM Fletcher"]
+authors = ["Hywel M Stoakes", "Andrew R Butcher","Janet M Fletcher"]
 
 # Publication type.
 # Legend:
