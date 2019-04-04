@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/publication/2019-04-04-nasal-coarticulation-in-bininj-kunwok/</loc>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/phonetics/wrangling-the-academia-theme/</loc>
       <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     </url>
@@ -159,8 +168,28 @@
     
     <url>
     
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/academia/</loc>
       <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/aerodynamics/</loc>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,7 +219,7 @@
     <url>
     
       <loc>/tags/emur/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -219,8 +248,8 @@
     
     <url>
     
-      <loc>/tags/phonetics/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <loc>/categories/phonetics/</loc>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -229,8 +258,8 @@
     
     <url>
     
-      <loc>/categories/phonetics/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+      <loc>/tags/phonetics/</loc>
+      <lastmod>2019-04-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
