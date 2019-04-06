@@ -1,5 +1,5 @@
 +++
-title = "Prosodically conditioned con- sonant duration in Djambarrpuyŋu"
+title = "Prosodically conditioned consonant duration in Djambarrpuyŋu"
 date = "2019-03-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
