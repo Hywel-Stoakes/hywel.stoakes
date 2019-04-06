@@ -40,7 +40,7 @@ Deep learning architectures such as deep neural networks, deep belief networks a
 
 Deep learning models are vaguely inspired by information processing and communication patterns in biological nervous systems yet have various differences from the structural and functional properties of biological brains (especially human brains), which make them incompatible with neuroscience evidences.
 
-# What are some of the areas in which ASR can improve?
+# What are some of the areas in which ASR supported by Deep Learning can improve?
 
 1. Recognition in understudied, under documented and endangered languages.
 2. Prosody of speech in general, across languages
