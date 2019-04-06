@@ -30,7 +30,7 @@ caption = "Bubbles :smile:"
 
 # Machine learning and speech recognition
 
-Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Marov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
+Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Markov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
 
 ## Deep Learning (From [Wikipedia](https://en.wikipedia.org/wiki/Deep_learning))
 

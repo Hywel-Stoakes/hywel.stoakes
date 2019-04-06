@@ -54,7 +54,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/deep-learning/</guid>
-      <description>Machine learning and speech recognition Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Marov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
+      <description>Machine learning and speech recognition Machine learning and speech recognition has advanced significantly in the last few years particularly in well-documented and widely spoken languages such as English and Standard Chinese. Most ASR (Automatic Speech Recognition) Systems make use of Hidden Markov Models or Dynamic Time Warping techniques, but in recent times Deep Learning based systems are getting far lower word error rates and producing sound results.
 Deep Learning (From Wikipedia) Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms.</description>
     </item>
     
