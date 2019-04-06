@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/headers/Galiwinku.jpg"
+image = "headers/Galiwinku.jpg"
 caption = "Galiwinku, Stoakes (2019)"
 
 +++
