@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Australian Languages</title>
+      <link>/project/australian-languages/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/australian-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosodically conditioned con- sonant duration in Djambarrpuyŋu</title>
+      <link>/publication/2019-04-05-prosodically-conditioned-consonant-duration/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-04-05-prosodically-conditioned-consonant-duration/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Nasal Coarticulation in Bininj Kunwok: An Aerodynamic Analysis</title>
       <link>/publication/2019-04-04-nasal-coarticulation/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
