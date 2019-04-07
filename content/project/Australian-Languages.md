@@ -27,4 +27,15 @@ image = "headers/Galiwinku.jpg"
 caption = "Galiwin'ku, Arnhem Land"
 
 +++
+# The Sounds of Australian Aboriginal Languages
+-  This is a short series of videos aimed at the general viewer that introduces some of the sounds of Australian Languages. ([Video Series](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages)). 
+- This is hosted by the Research Unit for Indigenous Language (RUIL) in the Faculty of Arts at The University of Melbourne.
 
+- The videos are:
+  -[Vowels](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/vowels)
+  -[Word Initial Velar Nasals](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/word-initial-velar-nasals)
+  -[Palatals](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/palatals)
+  -[Retroflexes](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/retroflexes)
+  -[Taps and Trills](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/taps-and-trills)
+  
+This series is a general introduction to the sounds of Australian languages and does not represent the full degree of diversity in pronunciation amongst the languages of the Australian continent.
