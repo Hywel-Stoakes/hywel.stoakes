@@ -23,3 +23,4 @@ math = false
 
 +++
 
+ The Emu Speech Database: a tool for annotating and organising audio recordings and speech metadata, including time aligned phonetic labels and associated signal processing files.
