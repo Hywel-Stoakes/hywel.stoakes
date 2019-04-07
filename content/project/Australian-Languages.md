@@ -38,4 +38,4 @@ caption = "Galiwin'ku, Arnhem Land"
   -[Retroflexes](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/retroflexes)
   -[Taps and Trills](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/taps-and-trills)
   
-This series is a general introduction to the sounds of Australian languages and does not represent the full degree of diversity in pronunciation amongst the languages of the Australian continent.
+This series is a general introduction to the sounds of Australian languages and does not represent the full degree of diversity in pronunciation amongst the languages of the Australian continent. It gives some examples from speakers of Australian languages.
