@@ -13,7 +13,8 @@ weight = 5
     "Articulatory Phonetics",
     "Coarticulation",
     "Australian Languages",
-    "Te Reo Māori"
+    "Te Reo Māori",
+    "Prosody"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -36,4 +37,4 @@ weight = 5
 
 # About me
 
-My research sits within the field of linguistic phonetics, exploring the sounds of speech in languages spoken today and the insights that this may give us into our deep past. I work with speakers of under-resourced and endangered languages of the Asia-Pacific region. My previous research concerns coarticulation and prosody in Indigenous Australian languages of Northern Australia. I have worked with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I am currently working with a team of researchers on MPAi, a pronunciation app for speakers and learners of Te Reo Māori. I aim to apply computer aided phonetic techniques to phonetic descriptions of the sounds of the World's languages and use this to investigate how iterative machine learning can help both the modern linguist in their work and benefit language communities in their daily lives. 
+My research explores the sounds of speech in languages spoken today and the insights that this may give us about our deep past. I work with speakers of under-resourced and endangered languages of the Asia-Pacific region to document and compare speech sounds. My recent research investigates coarticulation and prosody in Indigenous Australian languages of Northern Australia.  This has led me to collaborations with speakers of Bininj Kunwok (the Kunwinjku [kʊnˈwɪɲgʊ] variety) and Yolŋu Matha (Djambarrpuyŋu, Gumatj, Warramiri). I am currently in Aotearoa|New Zealand working with a team of researchers on *MPAi*, a pronunciation app for speakers and learners of Te Reo Māori. Generally, I aim to apply iterative machine learning techniques to phonetic descriptions of the sounds of the World's languages, investigating how this can benefit language communities as well as helping the modern linguist rapidly document languages that are potentially under threat. 
