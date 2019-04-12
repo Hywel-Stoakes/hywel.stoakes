@@ -89,7 +89,7 @@ library(plot3D)
     <item>
       <title>Wrangling The Academia Theme</title>
       <link>/post/wrangling-the-academia-theme/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/wrangling-the-academia-theme/</guid>
       <description>
@@ -101,8 +101,8 @@ library(plot3D)
 &lt;blockquote&gt;
 &lt;p&gt;Kei Maunga Whau ahau e noho ana&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;This is geospatial data that is included in the R base package showing the New Zealand roots of the software.&lt;/p&gt;
-&lt;p&gt;The code below is from: &lt;a href=&#34;https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf&#34;&gt;Fifty ways to draw a volcano using package plot3D&lt;/a&gt; by Karline Soetaert&lt;/p&gt;
+&lt;p&gt;The plot below uses geospatial data that is included in the R base package showing the New Zealand roots of the software.&lt;/p&gt;
+&lt;p&gt;The code comes from: &lt;a href=&#34;https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf&#34;&gt;Fifty ways to draw a volcano using package plot3D&lt;/a&gt; by Karline Soetaert&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Preamble
 library(plot3D)
 # Reduce the resolution
@@ -111,6 +111,7 @@ library(plot3D)
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
      contour = list(col = &amp;quot;white&amp;quot;, labcex = 0.8, lwd = 3, alpha = 0.5))&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;/post/2019-02-01-wrangling-the-academia-theme_files/figure-html/Plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;I will hopefully get a chance to map and describe Maunga Whau over the next little while.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
