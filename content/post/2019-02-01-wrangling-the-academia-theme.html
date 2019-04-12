@@ -1,0 +1,31 @@
+---
+title: Wrangling The Academia Theme
+author: Hywel Stoakes
+date: '2019-01-31'
+slug: wrangling-the-academia-theme
+categories:
+  - Academia
+  - Phonetics
+tags:
+  - Phonetics
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+
+
+<div id="the-academia-theme-in-hugo" class="section level1">
+<h1>The Academia Theme in Hugo</h1>
+<p>This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of <strong>R</strong> code while I have the chance.</p>
+<p>The code below is from: <a href="https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf">Fifty ways to draw a volcano using package plot3D</a> by Karline Soetaert</p>
+<pre class="r"><code># Preamble
+library(plot3D)
+# Reduce the resolution
+ Volcano &lt;- volcano[seq(1, nrow(volcano), by = 3),
+                     seq(1, ncol(volcano), by = 3)]</code></pre>
+<pre class="r"><code>image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
+     contour = list(col = &quot;white&quot;, labcex = 0.8, lwd = 3, alpha = 0.5))</code></pre>
+<p><img src="/post/2019-02-01-wrangling-the-academia-theme_files/figure-html/Plot-1.png" width="672" /></p>
+</div>
