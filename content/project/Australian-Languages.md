@@ -29,7 +29,7 @@ caption = "Galiwin'ku, Arnhem Land"
 +++
 # The Sounds of Australian Aboriginal Languages
 -  This is a short series of videos aimed at the general viewer that introduces some of the sounds of Australian Languages. ([Video Series](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages)). 
-- This is hosted by the Research Unit for Indigenous Language (RUIL) in the Faculty of Arts at The University of Melbourne.
+- This video series is hosted by the Research Unit for Indigenous Language (RUIL), whose home is in the Faculty of Arts at the University of Melbourne.
 
 - The videos include infomation on:
   - [Vowels](https://arts.unimelb.edu.au/research-unit-for-indigenous-language/training/australian-indigenous-languages/sounds-of-aboriginal-languages/vowels)  
