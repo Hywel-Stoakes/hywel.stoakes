@@ -18,9 +18,8 @@
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/wrangling-the-academia-theme/</guid>
-      <description>The Academia Theme in Hugo This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of R code while I have the chance.
-The code below is from: Fifty ways to draw a volcano using package plot3D by Karline Soetaert
-# Preamble library(plot3D) # Reduce the resolution Volcano &amp;lt;- volcano[seq(1, nrow(volcano), by = 3), seq(1, ncol(volcano), by = 3)] image2D(Volcano, lighting = TRUE, rasterImage = TRUE, contour = list(col = &amp;quot;white&amp;quot;, labcex = 0.</description>
+      <description>Plotting a Volcano This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of R code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and a small snippet from my Pēpeha:
+ Kei Maunga Whau ahau e noho ana</description>
     </item>
     
     <item>

@@ -14,9 +14,13 @@ header:
   preview: yes
 ---
 
-# The Academia Theme in Hugo
+# Plotting a Volcano
 
-This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of **R** code while I have the chance.
+This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of **R** code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and a small snippet from my Pēpeha:
+
+> Kei Maunga Whau ahau e noho ana
+
+This is geospatial data that is included in the R base package showing the New Zealand roots of the software. 
 
 The code below is from: [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) by Karline Soetaert
 
