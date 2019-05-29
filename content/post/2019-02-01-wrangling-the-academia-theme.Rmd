@@ -18,7 +18,7 @@ header:
 
 # Plotting a Volcano
 
-This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of **R** code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and I really love walking up to the [*tihi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tihi). Here is a small snippet from my Pēpeha:
+This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of **R** code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and I really love walking up to the [*tihi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tihi). Here is a small snippet from my [*Pepeha*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=pepeha):
 
 > Kei Maunga Whau ahau e noho ana
 
