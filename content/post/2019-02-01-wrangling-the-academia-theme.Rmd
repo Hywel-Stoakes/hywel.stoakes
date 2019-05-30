@@ -41,4 +41,4 @@ image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
      contour = list(col = "white", labcex = 0.8, lwd = 3, alpha = 0.5))
 ```
 
-I will hopefully get a chance to map and describe Maunga Whau over the next little while. It is a much loved landmark and I know I'm not the only one that is facinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga)of Auckland
+I will hopefully get a chance to map and describe Maunga Whau over the next little while. It is a much loved landmark and I know I'm not the only one that is fascinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga) of Auckland
