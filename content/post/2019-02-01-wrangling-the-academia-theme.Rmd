@@ -22,9 +22,9 @@ This is really just a test to see if I can get this post to show up on the site.
 
 > Kei Maunga Whau ahau e noho ana
 
-The plot below uses geospatial data that is included in the R base package showing the New Zealand roots of the software. 
+The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about path from the mountain to the University of Auckland, city campus.
 
-The code comes from: [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) by Karline Soetaert
+The code below comes from: [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) by Karline Soetaert
 
 ```{r setup}
 # Preamble
@@ -41,4 +41,4 @@ image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
      contour = list(col = "white", labcex = 0.8, lwd = 3, alpha = 0.5))
 ```
 
-I will hopefully get a chance to map and describe Maunga Whau over the next little while.
+I will hopefully get a chance to map and describe Maunga Whau over the next little while. It is a much loved landmark and I know I'm not the only one that is facinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga)of Auckland
