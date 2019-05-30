@@ -22,7 +22,7 @@ This is really just a test to see if I can get this post to show up on the site.
 
 > Kei Maunga Whau ahau e noho ana
 
-The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about path from the mountain to the University of Auckland, city campus.
+The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.
 
 The code below comes from: [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) by Karline Soetaert
 

@@ -101,7 +101,7 @@ library(plot3D)
 &lt;blockquote&gt;
 &lt;p&gt;Kei Maunga Whau ahau e noho ana&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about path from the mountain to the University of Auckland, city campus.&lt;/p&gt;
+&lt;p&gt;The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.&lt;/p&gt;
 &lt;p&gt;The code below comes from: &lt;a href=&#34;https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf&#34;&gt;Fifty ways to draw a volcano using package plot3D&lt;/a&gt; by Karline Soetaert&lt;/p&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Preamble
 library(plot3D)
