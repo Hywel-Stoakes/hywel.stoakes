@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-05-19
 
-title = "MPAi: A pronunciation aid for Te Reo Māori"
+title = "MPAi: A pronunciation aid for te reo Māori"
 
 # Order that this section will appear in.
 weight = 3
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> Learn More'
 +++
 
-This is showcase of work on the prototype for a computer-based pronunciation tool providing users with real time feedback on the speaker's own pronunciation of Te Reo Māori. The team, at the University of Auckland | Te Whare Wānanga o Tāmaki Makaurau, is led by Assoc. Prof. Catherine Watson and Dr Peter Keegan. :rocket:
+This is showcase of work on the prototype for a computer-based pronunciation tool providing users with real time feedback on the speaker's own pronunciation of te reo Māori. The team, at the University of Auckland | Te Whare Wānanga o Tāmaki Makaurau, is led by Assoc. Prof. Catherine Watson and Dr Peter Keegan. :rocket:
 <br>
 
 <!-- # <small><a id="academic-release" href="https://sourcethemes.com/academic/updates">Latest release</a></small>
