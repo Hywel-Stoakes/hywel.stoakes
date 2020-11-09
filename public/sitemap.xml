@@ -1,422 +1,183 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/post/2019-06-11-note-to-self/</loc>
-      <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/australian-languages/</loc>
-      <lastmod>2019-04-05T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/2019-04-05-prosodically-conditioned-consonant-duration/</loc>
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/2019-04-04-nasal-coarticulation/</loc>
-      <lastmod>2019-02-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/phonetics/wrangling-the-academia-theme/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/wrangling-the-academia-theme/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/phonetics/phonetic-tools/</loc>
-      <lastmod>2019-01-23T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/emur/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/hywel-m-stoakes/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/mpai/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/janet-m-fletcher/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/emur-talk/</loc>
-      <lastmod>2019-01-17T00:00:00+13:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/kathleen-jepson/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/mpai_landing/</loc>
-      <lastmod>2018-09-10T00:00:00+12:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/journal-article/2019-04-05-prosodically-conditioned-consonant-duration/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/a-new-home/</loc>
-      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2018-05-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/audio-files/</loc>
-      <lastmod>2017-04-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/andrew-r-butcher/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/journal-article/2019-04-04-nasal-coarticulation/</loc>
+    <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+13:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/smoothing-spline/</loc>
-      <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/category/academia/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/aerodynamics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/home/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/2019-05-29-vowel-duration-and-consonant-lengthening-in-djambarrpuyngu/</loc>
-      <lastmod>2015-08-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/post/plotting-a-volcano/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/pressure-impulse/</loc>
-      <lastmod>2014-12-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/r/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/academia/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/audio/</loc>
-      <lastmod>2017-04-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/conference-paper/2016-12-16-smoothing-spline/</loc>
+    <lastmod>2016-12-16T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/australian-languages/</loc>
-      <lastmod>2019-04-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/emur/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2018-05-19T00:00:00+12:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/phonetics/</loc>
-      <lastmod>2019-01-31T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/phonetics/</loc>
-      <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/phonetics/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/phonetics/</loc>
-      <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/conference-paper/2019-05-29-vowel-duration-and-consonant-lengthening-in-djambarrpuyngu/</loc>
+    <lastmod>2015-08-10T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2019-04-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/conference-paper/2014-12-12-pressure-impulse/</loc>
+    <lastmod>2014-12-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/hywel-stoakes/</loc>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/r/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/travel/</loc>
-      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/aerodynamics/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/audio/</loc>
-      <lastmod>2018-05-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/home/</loc>
-      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/machine-learning/</loc>
-      <lastmod>2019-01-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/research/</loc>
-      <lastmod>2018-09-10T00:00:00+12:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+  </url>
   
 </urlset>

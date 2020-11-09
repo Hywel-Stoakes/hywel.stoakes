@@ -1,115 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hywel Stoakes</title>
+    <title>Tags | Hywel Stoakes</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Hywel Stoakes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Australian-Languages</title>
-      <link>/tags/australian-languages/</link>
-      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/australian-languages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EmuR</title>
-      <link>/tags/emur/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/emur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phonetics</title>
-      <link>/tags/phonetics/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/phonetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aerodynamics</title>
-      <link>/tags/aerodynamics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/aerodynamics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>audio</title>
-      <link>/tags/audio/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/audio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>home</title>
-      <link>/tags/home/</link>
-      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>/tags/research/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +1200</pubDate>
-      
-      <guid>/tags/research/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
   </channel>
 </rss>

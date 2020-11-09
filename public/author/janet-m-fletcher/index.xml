@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Janet M Fletcher | Hywel Stoakes</title>
+    <link>/author/janet-m-fletcher/</link>
+      <atom:link href="/author/janet-m-fletcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Janet M Fletcher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Janet M Fletcher</title>
+      <link>/author/janet-m-fletcher/</link>
+    </image>
+    
+    <item>
+      <title>Prosodically conditioned consonant duration in Djambarrpuyŋu</title>
+      <link>/publication/journal-article/2019-04-05-prosodically-conditioned-consonant-duration/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-04-05-prosodically-conditioned-consonant-duration/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nasal Coarticulation in Bininj Kunwok: An Aerodynamic Analysis</title>
+      <link>/publication/journal-article/2019-04-04-nasal-coarticulation/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019-04-04-nasal-coarticulation/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nasal aerodynamics and coarticulation in Bininj Kunwok: Smoothing Spline Analysis of Variance</title>
+      <link>/publication/conference-paper/2016-12-16-smoothing-spline/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/2016-12-16-smoothing-spline/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Pressure Impulse in Australian Languages: Bininj Gun-wok</title>
+      <link>/publication/conference-paper/2014-12-12-pressure-impulse/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/2014-12-12-pressure-impulse/</guid>
+      <description>&lt;!--More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

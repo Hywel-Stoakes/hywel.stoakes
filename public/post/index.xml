@@ -1,65 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hywel Stoakes</title>
+    <title>Posts | Hywel Stoakes</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Hywel Stoakes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1300</lastBuildDate>
-    
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Note to Self</title>
-      <link>/post/2019-06-11-note-to-self/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019-06-11-note-to-self/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
     
     <item>
-      <title>Wrangling The Academia Theme</title>
-      <link>/post/wrangling-the-academia-theme/</link>
+      <title>Plotting a Volcano</title>
+      <link>/post/plotting-a-volcano/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/wrangling-the-academia-theme/</guid>
-      <description>Plotting a Volcano This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of R code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and I really love walking up to the tihi. Here is a small snippet from my Pepeha:</description>
-    </item>
-    
-    <item>
-      <title>MPAi: A pronunciation aid for Te Reo Māori</title>
-      <link>/post/mpai_landing/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +1200</pubDate>
-      
-      <guid>/post/mpai_landing/</guid>
-      <description>Development MPAi is a phonetic feedback tool packaged as a web-accessible computer application. The application is in current development at the University of Auckland in Aotearoa, New Zealand, under the guidance of Assoc. Prof. Catherine Watson and Dr. Peter Keegan. This work was made possible by drawing on a large body of research from the MAONZE project.
-There have been a number of different versions of the application to date, each that build on the knowledge and expertise of a number of software engineers amd researchers.</description>
-    </item>
-    
-    <item>
-      <title>A New Home</title>
-      <link>/post/a-new-home/</link>
-      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/a-new-home/</guid>
-      <description>I have recently moved institution and moved country to join a project researching pronunciation in Te Reo Māori at the University of Auckland in New Zealand. The outcome will be an app that helps a speaker become more confident and fluent with their pronunciation of Te Reo. So I thought I should update my website and maybe give it a new home too. This is work in progress, as all my projects seem to be.</description>
-    </item>
-    
-    <item>
-      <title>A Test of HTML5 Audio Capabilities in Hugo</title>
-      <link>/post/audio-files/</link>
-      <pubDate>Mon, 24 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/audio-files/</guid>
-      <description>A test of HTML5 audio in Hugo Here is an audio file (pulmonic consonant between two vowels).
-Your browser does not support the audio element  Some text to break up the players
-Your browser does not support the audio element  Embedded Javascript See the Pen wavesurfer.js zoom by Hywel Stoakes (@hywel_) on CodePen.
+      <guid>/post/plotting-a-volcano/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
-The fact that I can embed audio and see a visualisation is really encouraging!</description>
+
+&lt;p&gt;This post is a test of the capabilities of the Blogdown R package and the Hugo Academia Theme. I thought that I would play with a bit of &lt;strong&gt;R&lt;/strong&gt; code while I have the opportunity. Last year I could see this volcano from my window of my house so it was my Maunga then. I feel that it still is, spiritually. Among other things, it kept me fit running up to the &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=tihi&#34;&gt;&lt;em&gt;tihi&lt;/em&gt;&lt;/a&gt;. Here is a small snippet from my &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=pepeha&#34;&gt;&lt;em&gt;Pepeha&lt;/em&gt;&lt;/a&gt; (2):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kei Maunga Whau ahau e noho ana&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the &lt;em&gt;R&lt;/em&gt; software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.&lt;/p&gt;
+&lt;p&gt;The code below comes from: &lt;a href=&#34;https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf&#34;&gt;Fifty ways to draw a volcano using package plot3D&lt;/a&gt; by Karline Soetaert&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Preamble
+library(plot3D)
+# Reduce the resolution
+ Volcano &amp;lt;- volcano[seq(1, nrow(volcano), by = 3),
+                     seq(1, ncol(volcano), by = 3)]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
+     contour = list(col = &amp;quot;white&amp;quot;, labcex = 0.8, lwd = 3, alpha = 0.5))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;/post/2019-02-01-wrangling-the-academia-theme_files/figure-html/Plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I’m not the only one fascinated by the &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=maunga&#34;&gt;Maunga&lt;/a&gt; of the Te Ika-a-Māui, Aotearoa.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

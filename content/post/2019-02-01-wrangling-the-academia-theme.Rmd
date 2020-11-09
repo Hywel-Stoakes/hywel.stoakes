@@ -1,12 +1,11 @@
 ---
-title: Wrangling The Academia Theme
+title: Plotting a Volcano
 author: Hywel Stoakes
 date: '2019-01-29'
-slug: wrangling-the-academia-theme
+slug: plotting-a-volcano
 summary: "Using R code in markdown to plot a volcano (not just any volcano)."
 categories:
   - Academia
-  - Phonetics
 tags:
   - R
   - home
@@ -16,13 +15,11 @@ header:
   preview: yes
 ---
 
-# Plotting a Volcano
-
-This is really just a test to see if I can get this post to show up on the site. I thought that I would play with a bit of **R** code while I have the chance. I can see this volcano from my window of my house so it is my Maunga at the moment and I really love walking up to the [*tihi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tihi). Here is a small snippet from my [*Pepeha*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=pepeha):
+This post is a test of the capabilities of the Blogdown R package and the Hugo Academia Theme. I thought that I would play with a bit of **R** code while I have the opportunity. Last year I could see this volcano from my window of my house so it was my Maunga then. I feel that it still is, spiritually. Among other things, it kept me fit running up to the [*tihi*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=tihi). Here is a small snippet from my [*Pepeha*](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=pepeha) (2):
 
 > Kei Maunga Whau ahau e noho ana
 
-The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the R software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.
+The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the *R* software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.
 
 The code below comes from: [Fifty ways to draw a volcano using package plot3D](https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf) by Karline Soetaert
 
@@ -41,4 +38,4 @@ image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
      contour = list(col = "white", labcex = 0.8, lwd = 3, alpha = 0.5))
 ```
 
-I will hopefully get a chance to map and describe Maunga Whau over the next little while. It is a much loved landmark and I know I'm not the only one that is fascinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga) of Auckland
+Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I'm not the only one fascinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga) of the Te Ika-a-Māui, Aotearoa.
