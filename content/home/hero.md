@@ -43,7 +43,7 @@ hero_media = "EMUwebTrans.png"
   icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
+  url = "https://github.com/Hywel-Stoakes/EmuRTools/blob/main/README.md"
   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.

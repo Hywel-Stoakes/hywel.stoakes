@@ -5,4 +5,3 @@ header:
 layout: docs
 title: Courses
 ---
-
