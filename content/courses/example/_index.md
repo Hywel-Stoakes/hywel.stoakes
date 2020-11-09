@@ -2,13 +2,13 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: These pages are under construction
 menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-title: Overview
+summary: This page will house notes for workshops and tutorials focussed on computer-aided phonetic analysis using R, Emu and Praat. 
+title: Course Overview
 toc: true
 type: docs
 weight: 1

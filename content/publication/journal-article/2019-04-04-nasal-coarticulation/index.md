@@ -27,7 +27,7 @@ abstract = "Bininj Kunwok (BKw), a language spoken in Northern Australia, restri
 image_preview = "headers/VNV_Un_Averages.png"
 
 # Is this a selected publication? (true/false)
-selected = true
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
