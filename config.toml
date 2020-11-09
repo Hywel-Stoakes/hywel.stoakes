@@ -10,7 +10,7 @@ title = "Hywel Stoakes"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -77,12 +77,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The University of Auckland | Te Whare Wānanga o Tāmaki Makaurau", url = "https://www.auckland.ac.nz" } , { name = "The University of Melbourne", url = "https://www.unimelb.edu.au" } ]
+  organizations = [ { name = "The University of Melbourne", url = "https://www.unimelb.edu.au" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bio-avatar1.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "h.stoakes@auckland.ac.nz"
-  address = "Aotearoa"
+  email = "hstoakes@unimelb.edu.au"
+  address = "Melbourne"
   office_hours = ""
   phone = ""
   # skype = "hywel_"
@@ -116,9 +116,9 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "-36.865857"
-  longitude = "174.772876"
-  zoom = 6
+  latitude = "-37.797202"
+  longitude = "144.959597"
+  zoom = 5
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:h.stoakes@auckland.ac.nz"
+    link = "mailto:hstoakes@unimelb.edu.au"
 
   [[params.social]]
     icon = "twitter"

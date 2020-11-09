@@ -15,3 +15,6 @@ LaTeX: XeLaTeX
 StripTrailingWhitespace: Yes
 
 BuildType: Website
+
+MarkdownWrap: None
+MarkdownCanonical: No
