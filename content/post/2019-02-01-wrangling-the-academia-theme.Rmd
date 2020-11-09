@@ -38,4 +38,4 @@ image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
      contour = list(col = "white", labcex = 0.8, lwd = 3, alpha = 0.5))
 ```
 
-Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I'm not the only one fascinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga) of the Te Ika-a-Māui, Aotearoa.
+Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I'm not the only one fascinated by the [Maunga](https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=maunga) of Te Ika-a-Māui, Aotearoa.
