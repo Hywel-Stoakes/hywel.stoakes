@@ -1,0 +1,46 @@
+---
+title: A Major Rebuild
+author: Hywel Stoakes
+date: '2020-11-10'
+slug: a-major-rebuild
+categories:
+  - Admin
+tags:
+  - Phonetics
+  - R
+  - home
+subtitle: 'A site refresh'
+summary: 'I needed to modernize the version of Hugo and Blogdown I am using.'
+authors: [admin]
+lastmod: '2020-11-10T17:03:31+11:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<link href="/rmarkdown-libs/anchor-sections/anchor-sections.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/anchor-sections/anchor-sections.js"></script>
+
+
+<p>I realised a few months back that my personal website had stopped updating and that I needed to put in some work to get it back up and running. In addition, my domain name had expired and I had no idea how to migrate without some serious headaches. I revived the domain name, but found the content was seriously out of date. I have since moved institution and country and needed to either pull the site or update.</p>
+<p>Consequently, I needed a plan to either migrate or recreate the posts. Most of the previous site was just a place to put some of my papers rather than a blogging platform. I have never been a very diligent blogger and have often left site languishing. <a href="https://hywel.github.io">See this old github site</a> which is now broken completely apart from the twitter feed.</p>
+<p>I really didn’t want to move away from using Blogdown to update the site because I am so heavily invested in the <strong>R</strong> ecosystem and most of my analysis work uses it and Rmarkdown. I thought I would document a couple of the steps I took in the rebuild. In essence I just backed up and then deleted the site and re-downloaded the Hugo Academic template, adding in old posts and content very carefully. Most of the installation information below come directly from <a href="https://bookdown.org/yihui/blogdown/">the blogdown book</a>.</p>
+<pre class="r"><code>## Install from CRAN
+install.packages(&#39;blogdown&#39;) 
+## Or, install from GitHub
+if (!requireNamespace(&quot;devtools&quot;)) install.packages(&#39;devtools&#39;)
+devtools::install_github(&#39;rstudio/blogdown&#39;)</code></pre>
+<p>I then updated Hugo from within Rstudio</p>
+<pre class="r"><code>blogdown::update_hugo()</code></pre>
+<p>This is the version of Hugo that I am running</p>
+<pre class="r"><code>blogdown::hugo_version()</code></pre>
+<pre><code>## [1] &#39;0.78.1&#39;</code></pre>
+<div id="blogdown-version" class="section level3">
+<h3>blogdown version:</h3>
+<p>Yihui Xie (2020). blogdown: Create Blogs and Websites with R
+Markdown. R package version 0.21.</p>
+</div>
