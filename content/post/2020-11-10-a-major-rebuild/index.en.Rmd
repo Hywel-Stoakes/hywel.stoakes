@@ -40,10 +40,20 @@ I then updated Hugo from within Rstudio
 blogdown::update_hugo()
 ```
 
-This is the version of Hugo that I am running
+This is the version of Hugo that I am running:
 ```{r}
 blogdown::hugo_version()
 ```
+
+Below is the theme that I ended up using, which is an update of the original theme. And this is the command I used to install it.
+
+```{r, eval=FALSE}
+blogdown::new_site(theme = 'wowchemy/starter-academic')
+```
+
+There is a fair bit of customisation that needs to be done in the `config/_default` folder and the `content/home` folder. This is where you can choose to remove pages and content. The documentation is fairly easy to follow ([here](https://wowchemy.com/docs/)).
+
+I use [Netlify](https://www.netlify.com) to serve the site as recommended by Yihui Xie and Blogdown. This seems to be fairly stable and I can get Netlify to build the site using Hugo in only a couple of seconds.
 
 ### blogdown version:
 

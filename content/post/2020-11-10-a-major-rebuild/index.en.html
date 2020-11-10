@@ -36,9 +36,13 @@ if (!requireNamespace(&quot;devtools&quot;)) install.packages(&#39;devtools&#39;
 devtools::install_github(&#39;rstudio/blogdown&#39;)</code></pre>
 <p>I then updated Hugo from within Rstudio</p>
 <pre class="r"><code>blogdown::update_hugo()</code></pre>
-<p>This is the version of Hugo that I am running</p>
+<p>This is the version of Hugo that I am running:</p>
 <pre class="r"><code>blogdown::hugo_version()</code></pre>
 <pre><code>## [1] &#39;0.78.1&#39;</code></pre>
+<p>Below is the theme that I ended up using, which is an update of the original theme. And this is the command I used to install it.</p>
+<pre class="r"><code>blogdown::new_site(theme = &#39;wowchemy/starter-academic&#39;)</code></pre>
+<p>There is a fair bit of customisation that needs to be done in the <code>config/_default</code> folder and the <code>content/home</code> folder. This is where you can choose to remove pages and content. The documentation is fairly easy to follow (<a href="https://wowchemy.com/docs/">here</a>).</p>
+<p>I use <a href="https://www.netlify.com">Netlify</a> to serve the site as recommended by Yihui Xie and Blogdown. This seems to be fairly stable and I can get Netlify to build the site using Hugo in only a couple of seconds.</p>
 <div id="blogdown-version" class="section level3">
 <h3>blogdown version:</h3>
 <p>Yihui Xie (2020). blogdown: Create Blogs and Websites with R
