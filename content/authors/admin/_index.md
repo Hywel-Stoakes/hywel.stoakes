@@ -25,10 +25,10 @@ interests:
 education:
   courses:
   - course: Postdoctoral Fellow
-    institution: The University of Auckland
+    institution: The School of Engineering, The University of Auckland
     year: 2018
   - course: PhD in Articulatory Phonetics
-    institution: The University of Melbourne
+    institution: The School of Linguistics and Applied Linguistics, The University of Melbourne
     year: 2014
   - course: BA(Hons) in Linguistics
     institution: The University of Melbourne
