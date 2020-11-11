@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: Postdoctoral Fellow
-    institution: | The School of Engineering,
+    institution: The School of Engineering,
     The University of Auckland
     year: 2018
   - course: PhD in Articulatory Phonetics
