@@ -14,7 +14,7 @@ organizations:
   url: "www.unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hywel Stoakes explores the sounds of speech in languages spoken today and the insights that this may give us about our shared past. 
+bio: Hywel Stoakes explores the sounds of speech in languages spoken today and the insights that may be revealed about our shared past. 
 
 interests:
 - Acoustic and Articulatory Phonetics
