@@ -22,13 +22,13 @@ twitter: ''
 
 #email: test@example.org
 #phone: 888 888 88 88
-#address:
-  # street: 450 Serra Mall
-  # city: Stanford
-  # region: CA
-  # postcode: '94305'
-  # country: United States
-  # country_code: US
+address:
+  street: The Babel Building
+  city: Parkville, Melbourne
+  region: Victoria
+  postcode: '3010'
+  country: Australia
+  country_code: AU
 coordinates:
   latitude: '-37.798346'
   longitude: '144.960974'
@@ -40,7 +40,7 @@ coordinates:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Find me on Twitter
     link: 'https://twitter.com/hywel_'
   # - icon: skype
   #   icon_pack: fab
@@ -63,14 +63,14 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-au
+address_format: en-us
 
 # Site features
 
