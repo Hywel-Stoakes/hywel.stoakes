@@ -6,3 +6,5 @@
 .DS_Store
 .Rdata
 .httr-oauth
+Thumbs.db
+.hugo_build.lock
