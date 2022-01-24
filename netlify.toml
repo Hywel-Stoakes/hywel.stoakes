@@ -20,6 +20,11 @@
   [plugins.inputs]
     debug = true
 
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' https://stackpath.bootstrapcdn.com; style-src 'self' 'unsafe-inline' https://stackpath.bootstrapcdn.com; font-src 'self' 'unsafe-inline' https://stackpath.bootstrapcdn.com"
+
 [functions]
   directory = "netlify/functions"
 

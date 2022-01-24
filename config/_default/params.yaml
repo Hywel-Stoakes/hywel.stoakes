@@ -38,7 +38,7 @@ coordinates:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: fa-twitter
+  - icon: twitter
     icon_pack: fab
     name: Find me on Twitter
     link: 'https://twitter.com/hywel_'
