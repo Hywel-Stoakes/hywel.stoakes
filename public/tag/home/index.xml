@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home | Hywel Stoakes</title>
+    <link>https://academic-demo.netlify.app/tag/home/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>home</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Hywel Stoakes</copyright><lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>home</title>
+      <link>https://academic-demo.netlify.app/tag/home/</link>
+    </image>
+    
+    <item>
+      <title>A Major Rebuild</title>
+      <link>https://academic-demo.netlify.app/post/a-major-rebuild/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/a-major-rebuild/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/post/a-major-rebuild/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I realised a few months back that my personal website had stopped updating and that I needed to put in some work to get it back up and running. In addition, my domain name had expired and I had no idea how to migrate without some serious headaches. I revived the domain name, but realised the version of the site that was served was seriously out of date. It was an entirely static site and the pipeline I was using to update the content had stopped updating. In the interim I have moved institution and country and I came to the conclusion that I needed to either pull the site or update it with a more modern architecture.&lt;/p&gt;
+&lt;p&gt;I needed a plan to either migrate to a new site and recreate the posts or patch together what I already had. Most of my previous site was used as a place to store some of my papers rather than used as a blogging platform. I have never been a very diligent blogger and have often left sites languishing preferring to create new sites rather than updating old content. &lt;a href=&#34;https://hywel.github.io&#34;&gt;See this old github site&lt;/a&gt; which is now broken completely apart from the twitter feed.&lt;/p&gt;
+&lt;p&gt;I really didn’t want to move away from using Blogdown to update the site because I am so heavily invested in the &lt;strong&gt;R&lt;/strong&gt; ecosystem and most of my analysis work uses it and Rmarkdown. I thought I would document a couple of the steps I took in the rebuild. In essence I just backed up and then deleted the site and re-downloaded the Hugo Academic template, adding in old posts and content very carefully. Most of the installation information below come directly from &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;the blogdown book&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;## Install from CRAN
+install.packages(&amp;#39;blogdown&amp;#39;) 
+## Or, install from GitHub
+if (!requireNamespace(&amp;quot;devtools&amp;quot;)) install.packages(&amp;#39;devtools&amp;#39;)
+devtools::install_github(&amp;#39;rstudio/blogdown&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I then updated Hugo from within Rstudio&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::update_hugo()&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is the version of Hugo that I am running:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::hugo_version()&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] &amp;#39;0.92.0&amp;#39;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Below is the theme that I ended up using, which is an update of the original theme. And this is the command I used to install it.&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;blogdown::new_site(theme = &amp;#39;wowchemy/starter-academic&amp;#39;)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;There is a fair bit of customisation that needs to be done in the &lt;code&gt;config/_default&lt;/code&gt; folder and the &lt;code&gt;content/home&lt;/code&gt; folder. This is where you can choose to remove pages and content. The documentation is fairly easy to follow (&lt;a href=&#34;https://wowchemy.com/docs/&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; to serve the site as recommended by Yihui Xie and Blogdown. This seems to be fairly stable and I can get Netlify to build the site using Hugo in only a couple of seconds.&lt;/p&gt;
+&lt;div id=&#34;blogdown-version&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;blogdown version:&lt;/h3&gt;
+&lt;p&gt;Yihui Xie (2020). blogdown: Create Blogs and Websites with R Markdown. R package version 0.21.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plotting a Volcano</title>
+      <link>https://academic-demo.netlify.app/post/plotting-a-volcano/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/post/plotting-a-volcano/</guid>
+      <description>
+&lt;script src=&#34;https://academic-demo.netlify.app/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This post is a test of the capabilities of the Blogdown R package and the Hugo Academia Theme. I thought that I would play with a bit of &lt;strong&gt;R&lt;/strong&gt; code while I have the opportunity. Last year I could see this volcano from my window of my house so it was my Maunga then. I feel that it still is, spiritually. Among other things, it kept me fit running up to the &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=tihi&#34;&gt;&lt;em&gt;tihi&lt;/em&gt;&lt;/a&gt;. Here is a small snippet from my &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=pepeha&#34;&gt;&lt;em&gt;Pepeha&lt;/em&gt;&lt;/a&gt; (2):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Kei Maunga Whau ahau e noho ana&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the &lt;em&gt;R&lt;/em&gt; software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.&lt;/p&gt;
+&lt;p&gt;The code below comes from: &lt;a href=&#34;https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf&#34;&gt;Fifty ways to draw a volcano using package plot3D&lt;/a&gt; by Karline Soetaert&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# Preamble
+library(plot3D)
+# Reduce the resolution
+ Volcano &amp;lt;- volcano[seq(1, nrow(volcano), by = 3),
+                     seq(1, ncol(volcano), by = 3)]&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
+     contour = list(col = &amp;quot;white&amp;quot;, labcex = 0.8, lwd = 3, alpha = 0.5))&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://academic-demo.netlify.app/post/2019-02-01-wrangling-the-academia-theme_files/figure-html/Plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I’m not the only one fascinated by the &lt;a href=&#34;https://maoridictionary.co.nz/search?idiom=&amp;amp;phrase=&amp;amp;proverb=&amp;amp;loan=&amp;amp;histLoanWords=&amp;amp;keywords=maunga&#34;&gt;Maunga&lt;/a&gt; of Te Ika-a-Māui, Aotearoa.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
