@@ -21,8 +21,8 @@ subtitle = ""
   description = "60%"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "chart-line-solid"
+  icon_pack = "custom"
   name = "Statistics"
   description = "40%"
 
@@ -40,7 +40,7 @@ subtitle = ""
  description = "100%"
 
 # Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Place custom SVG icon in `assets/media/icons/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 [[feature]]
  icon = "Schwa_IPA_symbol"

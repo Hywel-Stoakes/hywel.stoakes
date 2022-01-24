@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hywel Stoakes # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'https://www.hywel-stoakes.net/' # Website URL
 copyright: '© {year} Hywel Stoakes' # Footer text, e.g. '© {year} Me'
 
 ############################
