@@ -39,7 +39,7 @@ coordinates:
 # appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
-    icon_pack: fab
+    icon_pack: 'fab'
     name: Find me on Twitter
     link: 'https://twitter.com/hywel_'
   # - icon: skype
