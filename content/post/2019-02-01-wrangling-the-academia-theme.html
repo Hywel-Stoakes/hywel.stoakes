@@ -1,0 +1,36 @@
+---
+title: Plotting a Volcano
+author: Hywel Stoakes
+date: '2019-01-29'
+slug: plotting-a-volcano
+summary: "Using R code in markdown to plot a volcano (not just any volcano)."
+authors: [hywel]
+categories:
+  - Academia
+tags:
+  - R
+  - home
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>This post is a test of the capabilities of the Blogdown R package and the Hugo Academia Theme. I thought that I would play with a bit of <strong>R</strong> code while I have the opportunity. Last year I could see this volcano from my window of my house so it was my Maunga then. I feel that it still is, spiritually. Among other things, it kept me fit running up to the <a href="https://maoridictionary.co.nz/search?idiom=&amp;phrase=&amp;proverb=&amp;loan=&amp;histLoanWords=&amp;keywords=tihi"><em>tihi</em></a>. Here is a small snippet from my <a href="https://maoridictionary.co.nz/search?idiom=&amp;phrase=&amp;proverb=&amp;loan=&amp;histLoanWords=&amp;keywords=pepeha"><em>Pepeha</em></a> (2):</p>
+<blockquote>
+<p>Kei Maunga Whau ahau e noho ana</p>
+</blockquote>
+<p>The plot below uses geospatial data, included in the R base package. I think this neatly shows the New Zealand roots of the <em>R</em> software package. I feel a real sense of place thinking about the well-trodden path from the mountain to the University of Auckland, city campus.</p>
+<p>The code below comes from: <a href="https://cran.r-project.org/web/packages/plot3D/vignettes/volcano.pdf">Fifty ways to draw a volcano using package plot3D</a> by Karline Soetaert</p>
+<pre class="r"><code># Preamble
+library(plot3D)
+# Reduce the resolution
+ Volcano &lt;- volcano[seq(1, nrow(volcano), by = 3),
+                     seq(1, ncol(volcano), by = 3)]</code></pre>
+<pre class="r"><code>image2D(Volcano, lighting = TRUE, rasterImage = TRUE,
+     contour = list(col = &quot;white&quot;, labcex = 0.8, lwd = 3, alpha = 0.5))</code></pre>
+<p><img src="/post/2019-02-01-wrangling-the-academia-theme_files/figure-html/Plot-1.png" width="672" /></p>
+<p>Unfortunately my chance to map and describe Maunga Whau has been put on hold by COVID. Maunga Whau is a much loved Auckland landmark and I know I’m not the only one fascinated by the <a href="https://maoridictionary.co.nz/search?idiom=&amp;phrase=&amp;proverb=&amp;loan=&amp;histLoanWords=&amp;keywords=maunga">Maunga</a> of Te Ika-a-Māui, Aotearoa.</p>
