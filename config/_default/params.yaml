@@ -8,7 +8,7 @@
 theme: earth
 day_night: true
 font: rose
-font_size: M
+font_size: L
 
 # SEO
 
@@ -38,8 +38,8 @@ coordinates:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: envelope-solid
-    icon_pack: custom
+  - icon: fa-twitter
+    icon_pack: fab
     name: Find me on Twitter
     link: 'https://twitter.com/hywel_'
   # - icon: skype
