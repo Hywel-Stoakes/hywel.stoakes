@@ -38,8 +38,8 @@ coordinates:
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
+  - icon: inaturalist
+    icon_pack: ai
     name: Find me on Twitter
     link: 'https://twitter.com/hywel_'
   # - icon: skype
