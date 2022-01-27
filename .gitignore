@@ -8,3 +8,5 @@
 .httr-oauth
 Thumbs.db
 .hugo_build.lock
+/public/
+/resources/
