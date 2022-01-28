@@ -6,7 +6,7 @@ title: Hywel Stoakes
 superuser: true
 
 # Role/position
-role: (he/him/his) | Lecturer Phonetics and Phonology
+role: (he/him/his) | Lecturer, Phonetics and Phonology
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: "https://www.latrobe.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hywel Stoakes explores the sounds of speech in languages spoken today and through this, insights that may be revealed about our shared past.
+bio: Hywel Stoakes explores the sounds of speech in languages spoken today.
 
 interests:
 - Acoustic and Articulatory Phonetics
@@ -42,16 +42,16 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: envelope
+- icon: fa-envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: fa-twitter
   icon_pack: fab
   link: https://twitter.com/hywel_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=y5ss1y4AAAAJ&hl=en
-- icon: github
+- icon: fa-github
   icon_pack: fab
   link: https://github.com/Hywel-Stoakes
 
