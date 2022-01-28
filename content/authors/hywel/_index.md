@@ -42,16 +42,16 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-- icon: fa-envelope
+- icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/hywel_
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=y5ss1y4AAAAJ&hl=en
-- icon: fa-github
+- icon: github
   icon_pack: fab
   link: https://github.com/Hywel-Stoakes
 
